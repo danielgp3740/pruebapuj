@@ -1,0 +1,24 @@
+
+,phpexcel_chart_dataseriesvalues::__construct5
++Classes/PHPExcel/Chart/DataSeriesValues.phpT T("1*i
+2
+DataSeriesValues.php"L
+5
++Classes/PHPExcel/Chart/DataSeriesValues.php\ \(
+implicit return*Â
+15
++Classes/PHPExcel/Chart/DataSeriesValues.phpV V(&€~
+5
++Classes/PHPExcel/Chart/DataSeriesValues.phpV V(%
+%1*#!
+phpexcel_chart_dataseriesvalues*
+
+	$dataType2setdatatype*
+2:
+	$dataType:
+$dataSource:
+$formatCode:
+$pointCount:
+$dataValues:	
+$markerB#!
+phpexcel_chart_dataseriesvalues

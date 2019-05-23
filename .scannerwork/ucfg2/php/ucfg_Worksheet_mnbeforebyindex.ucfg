@@ -1,0 +1,34 @@
+
+0phpexcel_worksheet::insertnewcolumnbeforebyindex*
+Classes/PHPExcel/Worksheet.phpû û(0"2"4*Þ
+2*
+Classes/PHPExcel/Worksheet.phpþ þ(k{
+y
+*
+Classes/PHPExcel/Worksheet.phpþ0 þ(^
+%1"$phpexcel_cell::stringfromcolumnindex*"
+phpexcel_cell*
+
+
+$pBeforezx
+*
+Classes/PHPExcel/Worksheet.phpþ þ(j
+%2*
+phpexcel_worksheet*
+
+%1*
+
+	$pNumCols2insertnewcolumnbefore"4
+*
+Classes/PHPExcel/Worksheet.phpþ þ(k
+
+%2*W
+4
+Worksheet.php"A
+*
+Classes/PHPExcel/Worksheet.php‚ ‚(
+implicit return:
+
+$pBefore:
+	$pNumColsB
+phpexcel_worksheet

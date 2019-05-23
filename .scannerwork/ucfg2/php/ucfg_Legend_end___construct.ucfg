@@ -1,0 +1,31 @@
+
+"phpexcel_chart_legend::__construct+
+!Classes/PHPExcel/Chart/Legend.phpN N("1*U
+2
+
+Legend.php"B
++
+!Classes/PHPExcel/Chart/Legend.phpS S(
+implicit return*è
+1+
+!Classes/PHPExcel/Chart/Legend.phpP P(&lj
++
+!Classes/PHPExcel/Chart/Legend.phpP P(%
+%1*
+phpexcel_chart_legend*
+
+	$position2setpositionjh
++
+!Classes/PHPExcel/Chart/Legend.phpR R(#
+%2*
+phpexcel_chart_legend*
+
+
+$overlay2
+setoverlay*
+2:
+	$position:	
+$layout:
+
+$overlayB
+phpexcel_chart_legend

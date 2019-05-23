@@ -1,0 +1,61 @@
+
+)phpexcel_polynomial_best_fit::__constructD
+8Classes/PHPExcel/Shared/trend/polynomialBestFitClass.phpœ œ("1*ï
+3D
+8Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php” ”(1ª∏
+D
+8Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php’ ’(O
+%2* 
+phpexcel_polynomial_best_fit*
+
+
+$order*
+
+
+$yValues*
+
+
+$xValues*
+
+
+$const2polynomialregressionÉÄ
+D
+8Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php÷ ÷(.
+%3* 
+phpexcel_polynomial_best_fit2getgoodnessoffit*
+4
+7*‘
+4D
+8Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php÷9 ÷(ZÉÄ
+D
+8Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php÷: ÷(S
+%4* 
+phpexcel_polynomial_best_fit2getgoodnessoffit*
+7*~
+7
+polynomialBestFitClass.php"[
+D
+8Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php› ›(
+implicit return*Å
+1D
+8Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php— —(=≠
+™
+D
+8Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php— —(3
+%1"phpexcel_best_fit::__construct* 
+phpexcel_polynomial_best_fit*
+
+
+$yValues*
+
+
+$xValues*
+3
+7:
+$order:
+
+$yValues:
+
+$xValues:
+$constB 
+phpexcel_polynomial_best_fit

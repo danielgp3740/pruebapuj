@@ -1,0 +1,207 @@
+
+pclzip::privcheckfileheaders9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpñ ñ(("1*Ã
+29
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpù ù(Z}
+{
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpù ù(0
+%3"
+__arrayGet*
+
+$p_local_header*
+'version_extracted'
+}
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpù4 ù(Z
+%4"
+__arrayGet*
+
+$p_central_header*
+'version_extracted'*
+3*©
+39
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpû û(@p
+n
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpû û(#
+%5"
+__arrayGet*
+
+$p_local_header*
+
+'flag'r
+p
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpû' û(@
+%6"
+__arrayGet*
+
+$p_central_header*
+
+'flag'*
+4*·
+49
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpı ı(Nw
+u
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpı ı(*
+%7"
+__arrayGet*
+
+$p_local_header*
+'compression'y
+w
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpı. ı(N
+%8"
+__arrayGet*
+
+$p_central_header*
+'compression'*
+5*¬
+59
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpÿ ÿ(Bq
+o
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpÿ ÿ($
+%9"
+__arrayGet*
+
+$p_local_header*	
+'mtime't
+r
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpÿ( ÿ(B
+%10"
+__arrayGet*
+
+$p_central_header*	
+'mtime'*
+6*»
+69
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php   (Py
+w
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php   (+
+%11"
+__arrayGet*
+
+$p_local_header*
+'filename_len'{
+y
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php /  (P
+%12"
+__arrayGet*
+
+$p_central_header*
+'filename_len'*
+7*¹
+79
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php…  … (.q
+o
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php…  … ($
+%13"
+__arrayGet*
+
+$p_local_header*
+
+'flag'*
+8
+9*¬
+89
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php†  † (@s
+q
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php† & † (?
+%14"
+__arrayGet*
+
+$p_central_header*
+
+'size'z
+x
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php†  † (#
+%15"
+__arraySet*
+
+$p_local_header*
+
+'size'*
+
+%14~
+|
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php‡ 1 ‡ (U
+%16"
+__arrayGet*
+
+$p_central_header*
+'compressed_size'†
+ƒ
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php‡  ‡ (.
+%17"
+__arraySet*
+
+$p_local_header*
+'compressed_size'*
+
+%16r
+p
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpˆ % ˆ (=
+%18"
+__arrayGet*
+
+$p_central_header*	
+'crc'y
+w
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpˆ  ˆ ("
+%19"
+__arraySet*
+
+$p_local_header*	
+'crc'*
+
+%18*
+9*Š
+99
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpŒ  Œ ("J
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpŒ  Œ (
+
+	$v_result*‰
+19
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpó ó(V
+T
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.phpó ó(
+	$v_result"__id*2t
+r
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php÷ ÷('
+%1"
+__arrayGet*
+
+$p_local_header*
+
+'filename'v
+t
+9
+-Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php÷+ ÷(H
+%2"
+__arrayGet*
+
+$p_central_header*
+
+'filename'*
+2:
+$p_local_header:
+$p_central_headerB
+
+pclzip

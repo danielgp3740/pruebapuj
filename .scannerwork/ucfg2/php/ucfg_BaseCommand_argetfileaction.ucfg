@@ -1,0 +1,54 @@
+
+-moxman_core_basecommand::firetargetfileactionR
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php2 2(("1*¸
+1R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php3 3(BÄ~
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php3 3(A
+$args"moxman_core_fileactioneventargs≤
+Ø
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php3 3(A
+%1",moxman_core_fileactioneventargs::__construct*	
+
+$args*
+	
+$action*
+
+	$fromFileÑÅ
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php4 4(
+%2*	
+
+$args*
+	
+$toFile2settargetfileÉ
+Ä
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php6	 6(#
+%3"moxman::getpluginmanager*
+"
+moxmanus
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php6	 6(0
+%4*
+
+%3*
+
+"core"2getàÖ
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php6	 6(K
+%5*
+
+%4*
+"FileAction"*	
+
+$args2fire"\
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php6 6(L
+
+%5:	
+$action:
+	$fromFile:	
+$toFileB
+moxman_core_basecommand

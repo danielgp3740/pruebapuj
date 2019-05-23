@@ -1,0 +1,85 @@
+
+*phpexcel_referencehelper::adjustmergecells0
+$Classes/PHPExcel/ReferenceHelper.phpì ì('"1*Ω
+30
+$Classes/PHPExcel/ReferenceHelper.phpò ò(]§°
+0
+$Classes/PHPExcel/ReferenceHelper.phpò ò(\
+%3*
+phpexcel_referencehelper*
+
+$key*
+
+
+$pBefore*
+
+	$pNumCols*
+
+	$pNumRows2updatecellreferenceS
+Q
+0
+$Classes/PHPExcel/ReferenceHelper.phpò ò(\
+$newReference"__id*
+
+%3Å
+
+0
+$Classes/PHPExcel/ReferenceHelper.phpô ô(*
+%4"
+__arraySet*
+
+$aNewMergeCells*
+
+$newReference*
+
+$newReference*
+3
+4*ß
+40
+$Classes/PHPExcel/ReferenceHelper.phpõ õ(0ki
+0
+$Classes/PHPExcel/ReferenceHelper.phpõ õ(/
+%5*
+	
+$pSheet*
+
+$aNewMergeCells2setmergecells*
+5*c
+5
+ReferenceHelper.php"G
+0
+$Classes/PHPExcel/ReferenceHelper.phpú ú(
+implicit return*Ñ
+10
+$Classes/PHPExcel/ReferenceHelper.phpï ï(0VT
+0
+$Classes/PHPExcel/ReferenceHelper.phpï ï(/
+%1*
+	
+$pSheet2getmergecellsR
+P
+0
+$Classes/PHPExcel/ReferenceHelper.phpï ï(/
+$aMergeCells"__id*
+
+%1B@
+0
+$Classes/PHPExcel/ReferenceHelper.phpñ ñ(!
+%2"$ArrayU
+S
+0
+$Classes/PHPExcel/ReferenceHelper.phpñ ñ(!
+$aNewMergeCells"__id*
+
+%2*
+3
+4:	
+$pSheet:
+
+$pBefore:
+$beforeColumnIndex:
+	$pNumCols:
+
+$beforeRow:
+	$pNumRowsB
+phpexcel_referencehelper

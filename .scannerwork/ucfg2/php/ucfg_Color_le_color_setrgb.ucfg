@@ -1,0 +1,78 @@
+
+phpexcel_style_color::setrgb,
+ Classes/PHPExcel/Style/Color.phpß ß("2"4"6*Š
+2,
+ Classes/PHPExcel/Style/Color.phpâ â(O
+M
+,
+ Classes/PHPExcel/Style/Color.phpâ â(	
+$pValue"__id*
+
+'000000'*
+4
+6*à
+4,
+ Classes/PHPExcel/Style/Color.phpå å(P><
+,
+ Classes/PHPExcel/Style/Color.phpå/ å(N
+%1"$ArrayW
+U
+,
+ Classes/PHPExcel/Style/Color.phpå? å(M
+%2"__concat*
+'FF'*
+	
+$pValue^
+\
+,
+ Classes/PHPExcel/Style/Color.phpå/ å(N
+%3"
+__arraySet*
+
+%1*
+
+'argb'*
+
+%2ge
+,
+ Classes/PHPExcel/Style/Color.phpå å(O
+%4*
+phpexcel_style_color*
+
+%12getstylearrayM
+K
+,
+ Classes/PHPExcel/Style/Color.phpå å(O
+$styleArray"__id*
+
+%4`^
+,
+ Classes/PHPExcel/Style/Color.phpæ æ(#
+%5*
+phpexcel_style_color2getactivesheetb`
+,
+ Classes/PHPExcel/Style/Color.phpæ. æ(G
+%6*
+phpexcel_style_color2getselectedcellsPN
+,
+ Classes/PHPExcel/Style/Color.phpæ æ(H
+%7*
+
+%5*
+
+%62getstyle_]
+,
+ Classes/PHPExcel/Style/Color.phpæ æ(e
+%8*
+
+%7*
+
+$styleArray2applyfromarray*
+6*{
+6,
+ Classes/PHPExcel/Style/Color.phpê ê("H
+,
+ Classes/PHPExcel/Style/Color.phpê ê(
+phpexcel_style_color:	
+$pValueB
+phpexcel_style_color

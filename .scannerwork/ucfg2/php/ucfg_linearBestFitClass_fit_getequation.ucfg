@@ -1,0 +1,51 @@
+
+%phpexcel_linear_best_fit::getequation>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpE E("1*Ø
+1>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpG G(&yw
+>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpG G(%
+%1*
+phpexcel_linear_best_fit*
+
+$dp2getslopeZ
+X
+>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpG G(%
+$slope"__id*
+
+%1}{
+>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpH H(-
+%2*
+phpexcel_linear_best_fit*
+
+$dp2getintersect^
+\
+>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpH H(-
+
+$intersect"__id*
+
+%2’
+
+>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpJ J(<
+%3"__concat*
+
+'Y = '*
+
+
+$intersect*	
+' + '*
+
+
+$slope*
+
+' * X'"H
+>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpJ J(=
+
+%3:
+$dpB
+phpexcel_linear_best_fit

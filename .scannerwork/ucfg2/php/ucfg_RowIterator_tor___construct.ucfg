@@ -1,0 +1,29 @@
+
++phpexcel_worksheet_rowiterator::__construct4
+*Classes/PHPExcel/Worksheet/RowIterator.phpC C("1*c
+2
+RowIterator.php"K
+4
+*Classes/PHPExcel/Worksheet/RowIterator.phpI I(
+implicit return*¸
+14
+*Classes/PHPExcel/Worksheet/RowIterator.phpF F("yw
+4
+*Classes/PHPExcel/Worksheet/RowIterator.phpG G( 
+%1*" 
+phpexcel_worksheet_rowiterator*
+	
+$endRow2resetend}{
+4
+*Classes/PHPExcel/Worksheet/RowIterator.phpH H($
+%2*" 
+phpexcel_worksheet_rowiterator*
+
+	$startRow2
+resetstart*
+2:
+
+$subject:
+	$startRow:	
+$endRowB" 
+phpexcel_worksheet_rowiterator

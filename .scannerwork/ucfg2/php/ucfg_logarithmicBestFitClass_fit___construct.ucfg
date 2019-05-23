@@ -1,0 +1,45 @@
+
+*phpexcel_logarithmic_best_fit::__constructC
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phph h("1*€
+2C
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpk k(E°­
+C
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpk k(D
+%2*!
+phpexcel_logarithmic_best_fit*
+
+
+$yValues*
+
+
+$xValues*
+
+
+$const2logarithmicregression*
+3*~
+3
+logarithmicBestFitClass.php"Z
+C
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpm m(
+implicit return*€
+1C
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpj j(=­
+ª
+C
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpj j(3
+%1"phpexcel_best_fit::__construct*!
+phpexcel_logarithmic_best_fit*
+
+
+$yValues*
+
+
+$xValues*
+2
+3:
+
+$yValues:
+
+$xValues:
+$constB!
+phpexcel_logarithmic_best_fit

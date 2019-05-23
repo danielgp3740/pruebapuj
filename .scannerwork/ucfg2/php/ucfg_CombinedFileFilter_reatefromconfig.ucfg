@@ -1,0 +1,275 @@
+
+/moxman_vfs_combinedfilefilter::createfromconfigX
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.php< <(("1*±-
+1X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.php= =(.ÖÇ
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.php= =(-
+
+$filter1"moxman_vfs_basicfilefilterö
+ó
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.php= =(-
+%1"'moxman_vfs_basicfilefilter::__construct*
+
+
+$filter1°û
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.php>' >([
+%2*
+	
+$config**(
+&'filesystem.include_directory_pattern'2getïí
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.php> >(\
+%3*
+
+
+$filter1*
+
+%22setincludedirectorypattern°û
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.php?' ?([
+%4*
+	
+$config**(
+&'filesystem.exclude_directory_pattern'2getïí
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.php? ?(\
+%5*
+
+
+$filter1*
+
+%42setexcludedirectorypatternúô
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.php@" @(Q
+%6*
+	
+$config*%#
+!'filesystem.include_file_pattern'2getêç
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.php@ @(R
+%7*
+
+
+$filter1*
+
+%62setincludefilepatternúô
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpA" A(Q
+%8*
+	
+$config*%#
+!'filesystem.exclude_file_pattern'2getêç
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpA A(R
+%9*
+
+
+$filter1*
+
+%82setexcludefilepatternìê
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpB! B(F
+%10*
+	
+$config*
+'filesystem.extensions'2getëé
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpB B(G
+%11*
+
+
+$filter1*
+
+%102setincludeextensionsüú
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpC C(M
+%12*
+	
+$config*'%
+#'filesystem.local.access_file_name'2getåâ
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpC C(N
+%13*
+
+
+$filter1*
+
+%122setexcludefilesÖÇ
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpE E(-
+
+$filter2"moxman_vfs_basicfilefilterõ
+ò
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpE E(-
+%14"'moxman_vfs_basicfilefilter::__construct*
+
+
+$filter2ù
+ö
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpF4 F(Z
+%15"__concat*
+	
+$prefix* 
+'.include_directory_pattern'~|
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpF' F([
+%16*
+	
+$config*
+
+%152getóî
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpF F(\
+%17*
+
+
+$filter2*
+
+%162setincludedirectorypatternù
+ö
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpG4 G(Z
+%18"__concat*
+	
+$prefix* 
+'.exclude_directory_pattern'~|
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpG' G([
+%19*
+	
+$config*
+
+%182getóî
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpG G(\
+%20*
+
+
+$filter2*
+
+%192setexcludedirectorypatternò
+ï
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpH/ H(P
+%21"__concat*
+	
+$prefix*
+'.include_file_pattern'~|
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpH" H(Q
+%22*
+	
+$config*
+
+%212getíè
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpH H(R
+%23*
+
+
+$filter2*
+
+%222setincludefilepatternò
+ï
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpI/ I(P
+%24"__concat*
+	
+$prefix*
+'.exclude_file_pattern'~|
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpI" I(Q
+%25*
+	
+$config*
+
+%242getíè
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpI I(R
+%26*
+
+
+$filter2*
+
+%252setexcludefilepatterné
+ã
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpJ. J(E
+%27"__concat*
+	
+$prefix*
+'.extensions'~|
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpJ! J(F
+%28*
+	
+$config*
+
+%272getëé
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpJ J(G
+%29*
+
+
+$filter2*
+
+%282setincludeextensionsö
+ó
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpK) K(L
+%30"__concat*
+	
+$prefix*
+'.local.access_file_name'~|
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpK K(M
+%31*
+	
+$config*
+
+%302getåâ
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpK K(N
+%32*
+
+
+$filter2*
+
+%312setexcludefilesáÑ
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpM M(/	
+$filter"moxman_vfs_combinedfilefilterù
+ö
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpM M(/
+%33"*moxman_vfs_combinedfilefilter::__construct*
+	
+$filteräá
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpN N(
+%34*
+	
+$filter*
+
+
+$filter12	addfilteräá
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpO O(
+%35*
+	
+$filter*
+
+
+$filter22	addfilter"g
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/CombinedFileFilter.phpQ Q(
+	
+$filter:	
+$config:	
+$prefixB!
+moxman_vfs_combinedfilefilter

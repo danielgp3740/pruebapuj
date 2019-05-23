@@ -1,0 +1,17 @@
+
+0phpexcel_calculation::setcalculationcacheenabled,
+ Classes/PHPExcel/Calculation.php· ·(."1*[
+2
+Calculation.php"C
+,
+ Classes/PHPExcel/Calculation.php» »(
+implicit return*Ÿ
+1,
+ Classes/PHPExcel/Calculation.php¹ ¹(1ge
+,
+ Classes/PHPExcel/Calculation.phpº º(&
+%1*
+phpexcel_calculation2clearcalculationcache*
+2:	
+$pValueB
+phpexcel_calculation

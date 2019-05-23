@@ -1,0 +1,100 @@
+
+ moxman_core_plugin::getthumbnailO
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php£ £("1*²
+2O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php§ §("\
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php§ §(	
+
+$file*Ò
+
+3O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpª ª(nom
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpª8 ª(J
+%3*	
+
+$file2	getparent„
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpªL ª(l
+%4*
+	
+$config*
+'thumbnail.folder'2get¥
+¢
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpª ª(m
+%5"moxman_util_pathutils::combine*"
+moxman_util_pathutils*
+
+%3*
+
+%4y
+w
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpª ª(m
+$thumbnailFolderPath"__id*
+
+%5„
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php«9 «(Y
+%6*
+	
+$config*
+'thumbnail.prefix'2getmk
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php«\ «(l
+%7*	
+
+$file2getnames
+q
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php«9 «(l
+%8"__concat*
+
+%6*
+
+%7™
+–
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php« «(m
+%9"moxman::getfile*
+"
+moxman*
+
+$thumbnailFolderPath*
+
+%8s
+q
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php« «(m
+$thumbnailFile"__id*
+
+%9"e
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php­ ­(
+
+$thumbnailFile*Ã
+1O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php¤ ¤(om
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php¤ ¤(
+%1*	
+
+$file2	getconfigl
+j
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php¤ ¤(	
+$config"__id*
+
+%1…‚
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.php¦ ¦('
+%2*
+	
+$config*
+'thumbnail.enabled'2get*
+2
+3:
+$fileB
+moxman_core_plugin

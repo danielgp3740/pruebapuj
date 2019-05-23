@@ -1,0 +1,75 @@
+
+(moxman_vfs_local_filesystem::__constructV
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php ("1*„
+2
+FileSystem.php"m
+V
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php (
+implicit return*Í
+1V
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php (/Ë
+È
+V
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php (.
+%1""moxman_vfs_filesystem::__construct*
+moxman_vfs_local_filesystem*
+	
+$scheme*
+	
+$config*	
+
+$root†ƒ
+V
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php (V
+%2"#moxman_vfs_local_fileconfigproviderÉ
+Æ
+V
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php (V
+%3"0moxman_vfs_local_fileconfigprovider::__construct*
+
+%2*
+moxman_vfs_local_filesystem*
+	
+$config¡ž
+V
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php (W
+%4*
+moxman_vfs_local_filesystem*
+
+%22setfileconfigproviderƒ€
+V
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php (B
+%5" moxman_vfs_local_fileurlprovider˜
+•
+V
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php (B
+%6"-moxman_vfs_local_fileurlprovider::__construct*
+
+%5ž›
+V
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php (C
+%7*
+moxman_vfs_local_filesystem*
+
+%52setfileurlproviderƒ€
+V
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php (G
+%8" moxman_vfs_local_fileurlresolver¹
+¶
+V
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php (G
+%9"-moxman_vfs_local_fileurlresolver::__construct*
+
+%8*
+moxman_vfs_local_filesystemŸœ
+V
+Lapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileSystem.php (H
+%10*
+moxman_vfs_local_filesystem*
+
+%82setfileurlresolver*
+2:	
+$scheme:	
+$config:
+$rootB
+moxman_vfs_local_filesystem

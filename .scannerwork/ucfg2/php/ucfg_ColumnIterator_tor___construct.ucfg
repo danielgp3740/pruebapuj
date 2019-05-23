@@ -1,0 +1,31 @@
+
+.phpexcel_worksheet_columniterator::__construct7
+-Classes/PHPExcel/Worksheet/ColumnIterator.phpC C("1*i
+2
+ColumnIterator.php"N
+7
+-Classes/PHPExcel/Worksheet/ColumnIterator.phpI I(
+implicit return*Ñ
+17
+-Classes/PHPExcel/Worksheet/ColumnIterator.phpF F("ƒ€
+7
+-Classes/PHPExcel/Worksheet/ColumnIterator.phpG G(#
+%1*%#
+!phpexcel_worksheet_columniterator*
+
+
+$endColumn2resetend‡„
+7
+-Classes/PHPExcel/Worksheet/ColumnIterator.phpH H('
+%2*%#
+!phpexcel_worksheet_columniterator*
+
+$startColumn2
+resetstart*
+2:
+
+$subject:
+$startColumn:
+
+$endColumnB%#
+!phpexcel_worksheet_columniterator

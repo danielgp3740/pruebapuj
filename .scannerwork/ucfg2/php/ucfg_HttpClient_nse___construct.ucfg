@@ -1,0 +1,41 @@
+
++moxman_http_httpclientresponse::__constructS
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.php∑ ∑("1*Å
+9
+HttpClient.php"j
+S
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.phpÀ À(
+implicit return*–
+1S
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.php∏ ∏(åâ
+S
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.phpø ø(
+%1*" 
+moxman_http_httpclientresponse2readheadrp
+S
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.phpƒ ƒ(
+%2*
+
+$req2	getmethodp
+n
+S
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.phpƒ ƒ(	
+$method"__id*
+
+%2ãà
+S
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.php≈
+ ≈(
+%3*" 
+moxman_http_httpclientresponse2getcoden
+l
+S
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.php≈ ≈(
+$code"__id*
+
+%3*
+9:	
+$client:
+$req:
+$contentLengthB" 
+moxman_http_httpclientresponse

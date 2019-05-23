@@ -1,0 +1,38 @@
+
++phpexcel_chart_gridlines::setglowproperties0
+$Classes/PHPExcel/Chart/GridLines.phpÏ Ï(%"1*]
+2
+GridLines.php"G
+0
+$Classes/PHPExcel/Chart/GridLines.phpÕ Õ(
+implicit return*‰
+10
+$Classes/PHPExcel/Chart/GridLines.phpÑ Ô(Hhf
+0
+$Classes/PHPExcel/Chart/GridLines.phpÑ Ò("
+%1*
+phpexcel_chart_gridlines2activateobjectZX
+0
+$Classes/PHPExcel/Chart/GridLines.phpÑ Ó($
+%2*
+
+%1*	
+
+$size2setglowsize†ƒ
+0
+$Classes/PHPExcel/Chart/GridLines.phpÑ Ô(G
+%3*
+
+%2*
+
+$color_value*
+
+$color_alpha*
+
+$color_type2setglowcolor*
+2:
+$size:
+$color_value:
+$color_alpha:
+$color_typeB
+phpexcel_chart_gridlines

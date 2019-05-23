@@ -1,0 +1,21 @@
+
+phpexcel_chart::__construct&
+Classes/PHPExcel/Chart.php¬ ¬("2*O
+2
+	Chart.php"=
+&
+Classes/PHPExcel/Chart.phpº º(
+implicit return:
+$name:
+$title:	
+$legend:
+	$plotArea:
+$plotVisibleOnly:
+$displayBlanksAs:
+$xAxisLabel:
+$yAxisLabel:
+$xAxis:
+$yAxis:
+$majorGridlines:
+$minorGridlinesB
+phpexcel_chart

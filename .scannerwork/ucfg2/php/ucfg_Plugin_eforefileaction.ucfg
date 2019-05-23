@@ -1,0 +1,66 @@
+
+,moxman_autorename_plugin::onbeforefileactionS
+Iapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/AutoRename/Plugin.php (#"1*ﬁ
+3S
+Iapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/AutoRename/Plugin.php (8qo
+S
+Iapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/AutoRename/Plugin.php% (5
+%2*	
+
+$args2getfileêç
+S
+Iapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/AutoRename/Plugin.php (6
+%3*
+moxman_autorename_plugin*
+
+%22
+renamefileyw
+S
+Iapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/AutoRename/Plugin.php (7
+%4*	
+
+$args*
+
+%32setfile*
+6*Í
+5S
+Iapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/AutoRename/Plugin.php (Dwu
+S
+Iapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/AutoRename/Plugin.php+ (A
+%5*	
+
+$args2gettargetfileêç
+S
+Iapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/AutoRename/Plugin.php (B
+%6*
+moxman_autorename_plugin*
+
+%52
+renamefile}
+S
+Iapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/AutoRename/Plugin.php (C
+%7*	
+
+$args*
+
+%62settargetfile*
+6*}
+6
+
+Plugin.php"j
+S
+Iapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/AutoRename/Plugin.php (
+implicit return*ÿ
+1S
+Iapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/AutoRename/Plugin.php	 (sq
+S
+Iapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/AutoRename/Plugin.php
+ (
+%1*	
+
+$args2	getaction*	
+3
+5
+6:
+$argsB
+moxman_autorename_plugin

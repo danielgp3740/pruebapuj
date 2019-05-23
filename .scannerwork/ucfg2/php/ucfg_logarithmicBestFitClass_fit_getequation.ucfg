@@ -1,0 +1,50 @@
+
+*phpexcel_logarithmic_best_fit::getequationC
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpD D("1*é
+1C
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpF F(&ÑÅ
+C
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpF F(%
+%1*!
+phpexcel_logarithmic_best_fit*
+
+$dp2getslope_
+]
+C
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpF F(%
+$slope"__id*
+
+%1àÖ
+C
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpG G(-
+%2*!
+phpexcel_logarithmic_best_fit*
+
+$dp2getintersectc
+a
+C
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpG G(-
+
+$intersect"__id*
+
+%2ú
+ô
+C
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpI I(9
+%3"__concat*
+
+'Y = '*
+
+
+$intersect*	
+' + '*
+
+
+$slope*
+' * log(X)'"M
+C
+9Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.phpI I(:
+
+%3:
+$dpB!
+phpexcel_logarithmic_best_fit

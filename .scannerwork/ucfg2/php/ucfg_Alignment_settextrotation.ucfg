@@ -1,0 +1,66 @@
+
+)phpexcel_style_alignment::settextrotation0
+$Classes/PHPExcel/Style/Alignment.phpù ù(#"8"11"12*¡
+80
+$Classes/PHPExcel/Style/Alignment.phpß ß(QB@
+0
+$Classes/PHPExcel/Style/Alignment.phpß3 ß(O
+%1"$Arrayk
+i
+0
+$Classes/PHPExcel/Style/Alignment.phpß3 ß(O
+%2"
+__arraySet*
+
+%1*
+
+'rotation'*
+	
+$pValueom
+0
+$Classes/PHPExcel/Style/Alignment.phpß ß(P
+%3*
+phpexcel_style_alignment*
+
+%12getstylearrayQ
+O
+0
+$Classes/PHPExcel/Style/Alignment.phpß ß(P
+$styleArray"__id*
+
+%3hf
+0
+$Classes/PHPExcel/Style/Alignment.php® ®('
+%4*
+phpexcel_style_alignment2getactivesheetjh
+0
+$Classes/PHPExcel/Style/Alignment.php®2 ®(K
+%5*
+phpexcel_style_alignment2getselectedcellsTR
+0
+$Classes/PHPExcel/Style/Alignment.php® ®(L
+%6*
+
+%4*
+
+%52getstyleca
+0
+$Classes/PHPExcel/Style/Alignment.php® ®(i
+%7*
+
+%6*
+
+$styleArray2applyfromarray*
+11*à
+110
+$Classes/PHPExcel/Style/Alignment.php∞ ∞("P
+0
+$Classes/PHPExcel/Style/Alignment.php∞ ∞(
+phpexcel_style_alignment*^
+12
+Alignment.php"G
+0
+$Classes/PHPExcel/Style/Alignment.php± ±(
+implicit return:	
+$pValueB
+phpexcel_style_alignment

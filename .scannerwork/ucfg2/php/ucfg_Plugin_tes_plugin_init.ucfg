@@ -1,0 +1,60 @@
+
+moxman_favorites_plugin::initR
+Happ/tinymce/js/tinymce/plugins/moxiemanager/plugins/Favorites/Plugin.php ("1*|
+2
+
+Plugin.php"i
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/plugins/Favorites/Plugin.php (
+implicit return*Ü
+1R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/plugins/Favorites/Plugin.php (`‡
+„
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/plugins/Favorites/Plugin.php ( 
+%1"moxman::getfilesystemmanager*
+"
+moxman¬©
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/plugins/Favorites/Plugin.php (_
+%2*
+
+%1*
+
+"favorite"*!
+"MOXMAN_Favorites_FileSystem"2registerfilesystem‡
+„
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/plugins/Favorites/Plugin.php ( 
+%3"moxman::getfilesystemmanager*
+"
+moxmanŒ‰
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/plugins/Favorites/Plugin.php (C
+%4*
+
+%3*
+"Favorites=favorite:///"2addrootƒ
+€
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/plugins/Favorites/Plugin.php (
+%5"moxman::getpluginmanager*
+"
+moxmanus
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/plugins/Favorites/Plugin.php ()
+%6*
+
+%5*
+
+"core"2get®«
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/plugins/Favorites/Plugin.php (T
+%7*
+
+%6*
+"FileAction"*
+"onFileAction"*
+moxman_favorites_plugin2bind*
+2B
+moxman_favorites_plugin

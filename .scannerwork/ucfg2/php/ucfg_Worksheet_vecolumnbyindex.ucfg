@@ -1,0 +1,34 @@
+
+'phpexcel_worksheet::removecolumnbyindex*
+Classes/PHPExcel/Worksheet.php½ ½('"2"4*Õ
+2*
+Classes/PHPExcel/Worksheet.phpÀ À(b{
+y
+*
+Classes/PHPExcel/Worksheet.phpÀ' À(U
+%1"$phpexcel_cell::stringfromcolumnindex*"
+phpexcel_cell*
+
+
+$pColumnqo
+*
+Classes/PHPExcel/Worksheet.phpÀ À(a
+%2*
+phpexcel_worksheet*
+
+%1*
+
+	$pNumCols2removecolumn"4
+*
+Classes/PHPExcel/Worksheet.phpÀ À(b
+
+%2*W
+4
+Worksheet.php"A
+*
+Classes/PHPExcel/Worksheet.phpÄ Ä(
+implicit return:
+
+$pColumn:
+	$pNumColsB
+phpexcel_worksheet

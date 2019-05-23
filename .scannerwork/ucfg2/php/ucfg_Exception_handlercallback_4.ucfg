@@ -1,0 +1,31 @@
+
+/phpexcel_writer_exception::errorhandlercallback/
+%Classes/PHPExcel/Writer/Exception.php' '(/"1*\
+2
+Exception.php"F
+/
+%Classes/PHPExcel/Writer/Exception.php- -(
+implicit return*è
+1/
+%Classes/PHPExcel/Writer/Exception.php) )(&?=
+/
+%Classes/PHPExcel/Writer/Exception.php) )(%
+$e"selfl
+j
+/
+%Classes/PHPExcel/Writer/Exception.php) )(%
+%1"self::__construct*
+
+$e*
+	
+$string*	
+
+$code*
+2:
+$code:	
+$string:
+$file:
+$line:
+
+$contextB
+phpexcel_writer_exception

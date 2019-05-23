@@ -1,0 +1,46 @@
+
+(phpexcel_calculation_engineering::imreal8
+,Classes/PHPExcel/Calculation/Engineering.php‘ ‘(!"1*Õ
+18
+,Classes/PHPExcel/Calculation/Engineering.php“ “(_¯
+¬
+8
+,Classes/PHPExcel/Calculation/Engineering.php“ “(^
+%1"2phpexcel_calculation_functions::flattensinglevalue*"" 
+phpexcel_calculation_functions*
+
+$complexNumber\
+Z
+8
+,Classes/PHPExcel/Calculation/Engineering.php“ “(^
+$complexNumber"__id*
+
+%1t
+r
+8
+,Classes/PHPExcel/Calculation/Engineering.php• •(;
+%2"self::parsecomplex*"
+self*
+
+$complexNumber\
+Z
+8
+,Classes/PHPExcel/Calculation/Engineering.php• •(;
+$parsedComplex"__id*
+
+%2n
+l
+8
+,Classes/PHPExcel/Calculation/Engineering.php– –(%
+%3"
+__arrayGet*
+
+$parsedComplex*
+
+'real'"B
+8
+,Classes/PHPExcel/Calculation/Engineering.php– –(&
+
+%3:
+$complexNumberB$"
+ phpexcel_calculation_engineering

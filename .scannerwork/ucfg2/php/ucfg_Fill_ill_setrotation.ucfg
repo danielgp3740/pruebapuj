@@ -1,0 +1,61 @@
+
+ phpexcel_style_fill::setrotation+
+Classes/PHPExcel/Style/Fill.phpç ç("2"4*„
+2+
+Classes/PHPExcel/Style/Fill.phpê ê(M=;
++
+Classes/PHPExcel/Style/Fill.phpê/ ê(K
+%1"$Arrayf
+d
++
+Classes/PHPExcel/Style/Fill.phpê/ ê(K
+%2"
+__arraySet*
+
+%1*
+
+'rotation'*
+	
+$pValueec
++
+Classes/PHPExcel/Style/Fill.phpê ê(L
+%3*
+phpexcel_style_fill*
+
+%12getstylearrayL
+J
++
+Classes/PHPExcel/Style/Fill.phpê ê(L
+$styleArray"__id*
+
+%3^\
++
+Classes/PHPExcel/Style/Fill.phpë ë(#
+%4*
+phpexcel_style_fill2getactivesheet`^
++
+Classes/PHPExcel/Style/Fill.phpë. ë(G
+%5*
+phpexcel_style_fill2getselectedcellsOM
++
+Classes/PHPExcel/Style/Fill.phpë ë(H
+%6*
+
+%4*
+
+%52getstyle^\
++
+Classes/PHPExcel/Style/Fill.phpë ë(e
+%7*
+
+%6*
+
+$styleArray2applyfromarray*
+4*x
+4+
+Classes/PHPExcel/Style/Fill.phpï ï("F
++
+Classes/PHPExcel/Style/Fill.phpï ï(
+phpexcel_style_fill:	
+$pValueB
+phpexcel_style_fill

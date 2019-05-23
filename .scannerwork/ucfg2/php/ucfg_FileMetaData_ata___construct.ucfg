@@ -1,0 +1,19 @@
+
+$moxman_vfs_filemetadata::__constructR
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/FileMetaData.php ("1*‚
+2
+FileMetaData.php"i
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/FileMetaData.php (
+implicit return*‡
+1R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/FileMetaData.php (¨
+¥
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/FileMetaData.php (
+%1",moxman_util_namevaluecollection::__construct*
+moxman_vfs_filemetadata*
+2:
+	$provider:
+$fileB
+moxman_vfs_filemetadata

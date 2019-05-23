@@ -1,0 +1,17 @@
+
+<phpexcel_worksheet_celliterator::setiterateonlyexistingcells5
++Classes/PHPExcel/Worksheet/CellIterator.phpR R(/"1*e
+2
+CellIterator.php"L
+5
++Classes/PHPExcel/Worksheet/CellIterator.phpW W(
+implicit return*Â
+15
++Classes/PHPExcel/Worksheet/CellIterator.phpT T(4€~
+5
++Classes/PHPExcel/Worksheet/CellIterator.phpV V(+
+%1*#!
+phpexcel_worksheet_celliterator2adjustforexistingonlyrange*
+2:
+$valueB#!
+phpexcel_worksheet_celliterator

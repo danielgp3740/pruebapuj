@@ -1,0 +1,59 @@
+
+moxman_history_plugin::initP
+Fapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/History/Plugin.php ("1*z
+2
+
+Plugin.php"g
+P
+Fapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/History/Plugin.php (
+implicit return*Ã
+1P
+Fapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/History/Plugin.php (]…
+‚
+P
+Fapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/History/Plugin.php ( 
+%1"moxman::getfilesystemmanager*
+"
+moxman§¤
+P
+Fapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/History/Plugin.php (\
+%2*
+
+%1*
+	"history"*
+"MOXMAN_History_FileSystem"2registerfilesystem…
+‚
+P
+Fapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/History/Plugin.php ( 
+%3"moxman::getfilesystemmanager*
+"
+moxman‡„
+P
+Fapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/History/Plugin.php (@
+%4*
+
+%3*
+"History=history:///"2addroot€
+~
+P
+Fapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/History/Plugin.php (
+%5"moxman::getpluginmanager*
+"
+moxmansq
+P
+Fapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/History/Plugin.php ()
+%6*
+
+%5*
+
+"core"2getª§
+P
+Fapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/History/Plugin.php (T
+%7*
+
+%6*
+"FileAction"*
+"onFileAction"*
+moxman_history_plugin2bind*
+2B
+moxman_history_plugin

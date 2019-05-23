@@ -1,0 +1,57 @@
+
+.phpexcel_worksheet::unmergecellsbycolumnandrow*
+Classes/PHPExcel/Worksheet.phpÂ Â(."1*é
+1+
+Classes/PHPExcel/Worksheet.phpÁ Á(è|
+z
+*
+Classes/PHPExcel/Worksheet.phpÁ Á(D
+%1"$phpexcel_cell::stringfromcolumnindex*"
+phpexcel_cell*
+
+	$pColumn1}
+{
++
+Classes/PHPExcel/Worksheet.phpÁV Á(Ö
+%2"$phpexcel_cell::stringfromcolumnindex*"
+phpexcel_cell*
+
+	$pColumn2p
+n
++
+Classes/PHPExcel/Worksheet.phpÁ Á(é
+%3"__concat*
+
+%1*
+
+
+$pRow1*
+':'*
+
+%2*
+
+
+$pRow2K
+I
++
+Classes/PHPExcel/Worksheet.phpÁ Á(é
+
+$cellRange"__id*
+
+%3jh
+*
+Classes/PHPExcel/Worksheet.phpË Ë(.
+%4*
+phpexcel_worksheet*
+
+
+$cellRange2unmergecells"4
+*
+Classes/PHPExcel/Worksheet.phpË Ë(/
+
+%4:
+	$pColumn1:
+$pRow1:
+	$pColumn2:
+$pRow2B
+phpexcel_worksheet

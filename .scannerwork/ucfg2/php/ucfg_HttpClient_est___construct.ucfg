@@ -1,0 +1,32 @@
+
+*moxman_http_httpclientrequest::__constructS
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.phpè è("1*
+2
+HttpClient.php"j
+S
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.phpñ ñ(
+implicit return*
+1S
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.phpé é(
+}
+S
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.phpğ ğ('
+%1"
+__arrayGet*
+
+$url*
+
+"host" 
+S
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Http/HttpClient.phpğ ğ((
+%2*!
+moxman_http_httpclientrequest*
+
+"host"*
+
+%12	setheader*
+2:	
+$client:
+$url:	
+$methodB!
+moxman_http_httpclientrequest

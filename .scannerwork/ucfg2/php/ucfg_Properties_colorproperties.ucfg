@@ -1,0 +1,75 @@
+
+-phpexcel_chart_properties::setcolorproperties1
+%Classes/PHPExcel/Chart/Properties.phpƒ ƒ()"1*ñ
+11
+%Classes/PHPExcel/Chart/Properties.php… ‰(
+CA
+1
+%Classes/PHPExcel/Chart/Properties.php… ‰(	
+%1"$ArrayZ
+X
+1
+%Classes/PHPExcel/Chart/Properties.php† †($
+%2"__passthrough_cast*	
+
+$typec
+a
+1
+%Classes/PHPExcel/Chart/Properties.php… ‰(	
+%3"
+__arraySet*
+
+%1*
+
+'type'*
+
+%2[
+Y
+1
+%Classes/PHPExcel/Chart/Properties.php‡ ‡(&
+%4"__passthrough_cast*
+
+
+$colord
+b
+1
+%Classes/PHPExcel/Chart/Properties.php… ‰(	
+%5"
+__arraySet*
+
+%1*	
+'value'*
+
+%4tr
+1
+%Classes/PHPExcel/Chart/Properties.phpˆ  ˆ(;
+%6*
+phpexcel_chart_properties*
+
+
+$alpha2gettruealphaW
+U
+1
+%Classes/PHPExcel/Chart/Properties.phpˆ ˆ(;
+%7"__passthrough_cast*
+
+%6d
+b
+1
+%Classes/PHPExcel/Chart/Properties.php… ‰(	
+%8"
+__arraySet*
+
+%1*	
+'alpha'*
+
+%7";
+1
+%Classes/PHPExcel/Chart/Properties.php… ‰(
+
+
+%1:
+$color:
+$alpha:
+$typeB
+phpexcel_chart_properties

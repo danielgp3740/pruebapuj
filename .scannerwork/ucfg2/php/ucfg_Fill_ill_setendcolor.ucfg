@@ -1,0 +1,106 @@
+
+ phpexcel_style_fill::setendcolor+
+Classes/PHPExcel/Style/Fill.php¢ ¢("1*Ÿ
+2+
+Classes/PHPExcel/Style/Fill.php•. •(KVT
++
+Classes/PHPExcel/Style/Fill.php•. •(K
+%2*
+	
+$pValue2getsharedcomponentG
+E
++
+Classes/PHPExcel/Style/Fill.php• •(U
+$color"__id*
+
+%2*
+5
+7*Ü
+3+
+Classes/PHPExcel/Style/Fill.php•N •(UL
+J
++
+Classes/PHPExcel/Style/Fill.php• •(U
+$color"__id*
+	
+$pValue*
+5
+7*ñ
+5+
+Classes/PHPExcel/Style/Fill.php® ®(b[Y
++
+Classes/PHPExcel/Style/Fill.php® ®(.
+%3*
+phpexcel_style_fill2getendcolor=;
++
+Classes/PHPExcel/Style/Fill.php®> ®(`
+%4"$ArrayJH
++
+Classes/PHPExcel/Style/Fill.php®N ®(_
+%5*
+
+
+$color2getargb]
+[
++
+Classes/PHPExcel/Style/Fill.php®> ®(`
+%6"
+__arraySet*
+
+%4*
+
+'argb'*
+
+%5TR
++
+Classes/PHPExcel/Style/Fill.php® ®(a
+%7*
+
+%3*
+
+%42getstylearrayL
+J
++
+Classes/PHPExcel/Style/Fill.php® ®(a
+$styleArray"__id*
+
+%7^\
++
+Classes/PHPExcel/Style/Fill.php© ©(#
+%8*
+phpexcel_style_fill2getactivesheet`^
++
+Classes/PHPExcel/Style/Fill.php©. ©(G
+%9*
+phpexcel_style_fill2getselectedcellsPN
++
+Classes/PHPExcel/Style/Fill.php© ©(H
+%10*
+
+%8*
+
+%92getstyle`^
++
+Classes/PHPExcel/Style/Fill.php© ©(e
+%11*
+
+%10*
+
+$styleArray2applyfromarray*
+7*x
+7+
+Classes/PHPExcel/Style/Fill.php≠ ≠("F
++
+Classes/PHPExcel/Style/Fill.php≠ ≠(
+phpexcel_style_fill*ç
+1+
+Classes/PHPExcel/Style/Fill.php• •(VSQ
++
+Classes/PHPExcel/Style/Fill.php• •(+
+%1*
+	
+$pValue2getissupervisor*
+2
+3:	
+$pValueB
+phpexcel_style_fill

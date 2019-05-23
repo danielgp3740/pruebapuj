@@ -1,0 +1,26 @@
+
+moxman_ftp_plugin::initL
+Bapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Ftp/Plugin.php ("1*v
+2
+
+Plugin.php"c
+L
+Bapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Ftp/Plugin.php (
+implicit return*÷
+1L
+Bapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Ftp/Plugin.php (U€
+~
+L
+Bapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Ftp/Plugin.php ( 
+%1"moxman::getfilesystemmanager*
+"
+moxman›˜
+L
+Bapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Ftp/Plugin.php (T
+%2*
+
+%1*	
+"ftp"*
+"MOXMAN_Ftp_FileSystem"2registerfilesystem*
+2B
+moxman_ftp_plugin

@@ -1,0 +1,33 @@
+
+phpexcel_richtext::createtext'
+Classes/PHPExcel/RichText.phpR R("1*—
+1'
+Classes/PHPExcel/RichText.phpT T(=VT
+'
+Classes/PHPExcel/RichText.phpT T(<
+
+$objText"phpexcel_richtext_textelementw
+u
+'
+Classes/PHPExcel/RichText.phpT T(<
+%1"*phpexcel_richtext_textelement::__construct*
+
+
+$objText*
+
+
+$pText_]
+'
+Classes/PHPExcel/RichText.phpU U( 
+%2*
+phpexcel_richtext*
+
+
+$objText2addtext"7
+'
+Classes/PHPExcel/RichText.phpV V(
+
+
+$objText:
+$pTextB
+phpexcel_richtext

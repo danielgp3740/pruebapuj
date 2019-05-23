@@ -1,0 +1,36 @@
+
+,phpexcel_worksheet::freezepanebycolumnandrow*
+Classes/PHPExcel/Worksheet.php¾ ¾(,"1*—
+1*
+Classes/PHPExcel/Worksheet.phpÀ À(Y{
+y
+*
+Classes/PHPExcel/Worksheet.phpÀ! À(O
+%1"$phpexcel_cell::stringfromcolumnindex*"
+phpexcel_cell*
+
+
+$pColumnQ
+O
+*
+Classes/PHPExcel/Worksheet.phpÀ! À(W
+%2"__concat*
+
+%1*	
+
+$pRow`^
+*
+Classes/PHPExcel/Worksheet.phpÀ À(X
+%3*
+phpexcel_worksheet*
+
+%22
+freezepane"4
+*
+Classes/PHPExcel/Worksheet.phpÀ À(Y
+
+%3:
+
+$pColumn:
+$pRowB
+phpexcel_worksheet

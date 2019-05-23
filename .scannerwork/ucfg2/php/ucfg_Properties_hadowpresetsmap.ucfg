@@ -1,0 +1,1596 @@
+
+.phpexcel_chart_properties::getshadowpresetsmap1
+%Classes/PHPExcel/Chart/Properties.phpù ù(*"1*àï
+11
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(
+CA
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%1"$ArrayCA
+1
+%Classes/PHPExcel/Chart/Properties.php° ®(
+%2"$Arrayn
+l
+1
+%Classes/PHPExcel/Chart/Properties.php° ®(
+%3"
+__arraySet*
+
+%2*
+
+'effect'*
+'outerShdw'h
+f
+1
+%Classes/PHPExcel/Chart/Properties.php° ®(
+%4"
+__arraySet*
+
+%2*
+
+'blur'*	
+'50800'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.php° ®(
+%5"
+__arraySet*
+
+%2*
+
+'distance'*	
+'38100'o
+m
+1
+%Classes/PHPExcel/Chart/Properties.php° ®(
+%6"
+__arraySet*
+
+%2*
+'direction'*
+	'2700000'e
+c
+1
+%Classes/PHPExcel/Chart/Properties.php° ®(
+%7"
+__arraySet*
+
+%2*
+
+'algn'*
+'tl'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.php° ®(
+%8"
+__arraySet*
+
+%2*
+'rotWithShape'*
+'0']
+[
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%9"
+__arraySet*
+
+%1*2*
+
+%2DB
+1
+%Classes/PHPExcel/Chart/Properties.php© ∞(
+%10"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.php© ∞(
+%11"
+__arraySet*
+
+%10*
+
+'effect'*
+'outerShdw'j
+h
+1
+%Classes/PHPExcel/Chart/Properties.php© ∞(
+%12"
+__arraySet*
+
+%10*
+
+'blur'*	
+'50800'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php© ∞(
+%13"
+__arraySet*
+
+%10*
+
+'distance'*	
+'38100'q
+o
+1
+%Classes/PHPExcel/Chart/Properties.php© ∞(
+%14"
+__arraySet*
+
+%10*
+'direction'*
+	'5400000'f
+d
+1
+%Classes/PHPExcel/Chart/Properties.php© ∞(
+%15"
+__arraySet*
+
+%10*
+
+'algn'*
+'t'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php© ∞(
+%16"
+__arraySet*
+
+%10*
+'rotWithShape'*
+'0'_
+]
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%17"
+__arraySet*
+
+%1*2*
+
+%10DB
+1
+%Classes/PHPExcel/Chart/Properties.php± ∏(
+%18"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.php± ∏(
+%19"
+__arraySet*
+
+%18*
+
+'effect'*
+'outerShdw'j
+h
+1
+%Classes/PHPExcel/Chart/Properties.php± ∏(
+%20"
+__arraySet*
+
+%18*
+
+'blur'*	
+'50800'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php± ∏(
+%21"
+__arraySet*
+
+%18*
+
+'distance'*	
+'38100'q
+o
+1
+%Classes/PHPExcel/Chart/Properties.php± ∏(
+%22"
+__arraySet*
+
+%18*
+'direction'*
+	'8100000'g
+e
+1
+%Classes/PHPExcel/Chart/Properties.php± ∏(
+%23"
+__arraySet*
+
+%18*
+
+'algn'*
+'tr'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php± ∏(
+%24"
+__arraySet*
+
+%18*
+'rotWithShape'*
+'0'_
+]
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%25"
+__arraySet*
+
+%1*2*
+
+%18DB
+1
+%Classes/PHPExcel/Chart/Properties.phpπ ø(
+%26"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.phpπ ø(
+%27"
+__arraySet*
+
+%26*
+
+'effect'*
+'outerShdw'j
+h
+1
+%Classes/PHPExcel/Chart/Properties.phpπ ø(
+%28"
+__arraySet*
+
+%26*
+
+'blur'*	
+'50800'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.phpπ ø(
+%29"
+__arraySet*
+
+%26*
+
+'distance'*	
+'38100'f
+d
+1
+%Classes/PHPExcel/Chart/Properties.phpπ ø(
+%30"
+__arraySet*
+
+%26*
+
+'algn'*
+'l'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.phpπ ø(
+%31"
+__arraySet*
+
+%26*
+'rotWithShape'*
+'0'_
+]
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%32"
+__arraySet*
+
+%1*2*
+
+%26DB
+1
+%Classes/PHPExcel/Chart/Properties.php¿ À(
+%33"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.php¿ À(
+%34"
+__arraySet*
+
+%33*
+
+'effect'*
+'outerShdw'DB
+1
+%Classes/PHPExcel/Chart/Properties.php¬ ≈(
+%35"$Arrayi
+g
+1
+%Classes/PHPExcel/Chart/Properties.php¬ ≈(
+%36"
+__arraySet*
+
+%35*
+'sx'*
+
+'102000'i
+g
+1
+%Classes/PHPExcel/Chart/Properties.php¬ ≈(
+%37"
+__arraySet*
+
+%35*
+'sy'*
+
+'102000'f
+d
+1
+%Classes/PHPExcel/Chart/Properties.php¿ À(
+%38"
+__arraySet*
+
+%33*
+
+'size'*
+
+%35j
+h
+1
+%Classes/PHPExcel/Chart/Properties.php¿ À(
+%39"
+__arraySet*
+
+%33*
+
+'blur'*	
+'63500'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php¿ À(
+%40"
+__arraySet*
+
+%33*
+
+'distance'*	
+'38100'h
+f
+1
+%Classes/PHPExcel/Chart/Properties.php¿ À(
+%41"
+__arraySet*
+
+%33*
+
+'algn'*	
+'ctr'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php¿ À(
+%42"
+__arraySet*
+
+%33*
+'rotWithShape'*
+'0'_
+]
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%43"
+__arraySet*
+
+%1*2*
+
+%33DB
+1
+%Classes/PHPExcel/Chart/Properties.phpÃ ”(
+%44"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.phpÃ ”(
+%45"
+__arraySet*
+
+%44*
+
+'effect'*
+'outerShdw'j
+h
+1
+%Classes/PHPExcel/Chart/Properties.phpÃ ”(
+%46"
+__arraySet*
+
+%44*
+
+'blur'*	
+'50800'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.phpÃ ”(
+%47"
+__arraySet*
+
+%44*
+
+'distance'*	
+'38100'r
+p
+1
+%Classes/PHPExcel/Chart/Properties.phpÃ ”(
+%48"
+__arraySet*
+
+%44*
+'direction'*
+
+'10800000'f
+d
+1
+%Classes/PHPExcel/Chart/Properties.phpÃ ”(
+%49"
+__arraySet*
+
+%44*
+
+'algn'*
+'r'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.phpÃ ”(
+%50"
+__arraySet*
+
+%44*
+'rotWithShape'*
+'0'_
+]
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%51"
+__arraySet*
+
+%1*2*
+
+%44DB
+1
+%Classes/PHPExcel/Chart/Properties.php‘ €(
+%52"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.php‘ €(
+%53"
+__arraySet*
+
+%52*
+
+'effect'*
+'outerShdw'j
+h
+1
+%Classes/PHPExcel/Chart/Properties.php‘ €(
+%54"
+__arraySet*
+
+%52*
+
+'blur'*	
+'50800'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php‘ €(
+%55"
+__arraySet*
+
+%52*
+
+'distance'*	
+'38100'r
+p
+1
+%Classes/PHPExcel/Chart/Properties.php‘ €(
+%56"
+__arraySet*
+
+%52*
+'direction'*
+
+'18900000'g
+e
+1
+%Classes/PHPExcel/Chart/Properties.php‘ €(
+%57"
+__arraySet*
+
+%52*
+
+'algn'*
+'bl'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php‘ €(
+%58"
+__arraySet*
+
+%52*
+'rotWithShape'*
+'0'_
+]
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%59"
+__arraySet*
+
+%1*2*
+
+%52DB
+1
+%Classes/PHPExcel/Chart/Properties.php‹ ‚(
+%60"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.php‹ ‚(
+%61"
+__arraySet*
+
+%60*
+
+'effect'*
+'outerShdw'j
+h
+1
+%Classes/PHPExcel/Chart/Properties.php‹ ‚(
+%62"
+__arraySet*
+
+%60*
+
+'blur'*	
+'50800'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php‹ ‚(
+%63"
+__arraySet*
+
+%60*
+
+'distance'*	
+'38100'r
+p
+1
+%Classes/PHPExcel/Chart/Properties.php‹ ‚(
+%64"
+__arraySet*
+
+%60*
+'direction'*
+
+'16200000'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php‹ ‚(
+%65"
+__arraySet*
+
+%60*
+'rotWithShape'*
+'0'_
+]
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%66"
+__arraySet*
+
+%1*2*
+
+%60DB
+1
+%Classes/PHPExcel/Chart/Properties.php„ Í(
+%67"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.php„ Í(
+%68"
+__arraySet*
+
+%67*
+
+'effect'*
+'outerShdw'j
+h
+1
+%Classes/PHPExcel/Chart/Properties.php„ Í(
+%69"
+__arraySet*
+
+%67*
+
+'blur'*	
+'50800'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php„ Í(
+%70"
+__arraySet*
+
+%67*
+
+'distance'*	
+'38100'r
+p
+1
+%Classes/PHPExcel/Chart/Properties.php„ Í(
+%71"
+__arraySet*
+
+%67*
+'direction'*
+
+'13500000'g
+e
+1
+%Classes/PHPExcel/Chart/Properties.php„ Í(
+%72"
+__arraySet*
+
+%67*
+
+'algn'*
+'br'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php„ Í(
+%73"
+__arraySet*
+
+%67*
+'rotWithShape'*
+'0'_
+]
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%74"
+__arraySet*
+
+%1*2	*
+
+%67DB
+1
+%Classes/PHPExcel/Chart/Properties.phpÏ Ò(
+%75"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.phpÏ Ò(
+%76"
+__arraySet*
+
+%75*
+
+'effect'*
+'innerShdw'j
+h
+1
+%Classes/PHPExcel/Chart/Properties.phpÏ Ò(
+%77"
+__arraySet*
+
+%75*
+
+'blur'*	
+'63500'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.phpÏ Ò(
+%78"
+__arraySet*
+
+%75*
+
+'distance'*	
+'50800'q
+o
+1
+%Classes/PHPExcel/Chart/Properties.phpÏ Ò(
+%79"
+__arraySet*
+
+%75*
+'direction'*
+	'2700000'_
+]
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%80"
+__arraySet*
+
+%1*2
+*
+
+%75DB
+1
+%Classes/PHPExcel/Chart/Properties.phpÚ ˜(
+%81"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.phpÚ ˜(
+%82"
+__arraySet*
+
+%81*
+
+'effect'*
+'innerShdw'j
+h
+1
+%Classes/PHPExcel/Chart/Properties.phpÚ ˜(
+%83"
+__arraySet*
+
+%81*
+
+'blur'*	
+'63500'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.phpÚ ˜(
+%84"
+__arraySet*
+
+%81*
+
+'distance'*	
+'50800'q
+o
+1
+%Classes/PHPExcel/Chart/Properties.phpÚ ˜(
+%85"
+__arraySet*
+
+%81*
+'direction'*
+	'5400000'_
+]
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%86"
+__arraySet*
+
+%1*2*
+
+%81DB
+1
+%Classes/PHPExcel/Chart/Properties.php¯ ˝(
+%87"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.php¯ ˝(
+%88"
+__arraySet*
+
+%87*
+
+'effect'*
+'innerShdw'j
+h
+1
+%Classes/PHPExcel/Chart/Properties.php¯ ˝(
+%89"
+__arraySet*
+
+%87*
+
+'blur'*	
+'63500'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php¯ ˝(
+%90"
+__arraySet*
+
+%87*
+
+'distance'*	
+'50800'q
+o
+1
+%Classes/PHPExcel/Chart/Properties.php¯ ˝(
+%91"
+__arraySet*
+
+%87*
+'direction'*
+	'8100000'_
+]
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%92"
+__arraySet*
+
+%1*2*
+
+%87DB
+1
+%Classes/PHPExcel/Chart/Properties.php˛ Ç(
+%93"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.php˛ Ç(
+%94"
+__arraySet*
+
+%93*
+
+'effect'*
+'innerShdw'j
+h
+1
+%Classes/PHPExcel/Chart/Properties.php˛ Ç(
+%95"
+__arraySet*
+
+%93*
+
+'blur'*	
+'63500'n
+l
+1
+%Classes/PHPExcel/Chart/Properties.php˛ Ç(
+%96"
+__arraySet*
+
+%93*
+
+'distance'*	
+'50800'_
+]
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%97"
+__arraySet*
+
+%1*2*
+
+%93DB
+1
+%Classes/PHPExcel/Chart/Properties.phpÉ Ü(
+%98"$Arrayp
+n
+1
+%Classes/PHPExcel/Chart/Properties.phpÉ Ü(
+%99"
+__arraySet*
+
+%98*
+
+'effect'*
+'innerShdw'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.phpÉ Ü(
+%100"
+__arraySet*
+
+%98*
+
+'blur'*
+
+'114300'`
+^
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%101"
+__arraySet*
+
+%1*2*
+
+%98EC
+1
+%Classes/PHPExcel/Chart/Properties.phpá å(
+%102"$Arrayr
+p
+1
+%Classes/PHPExcel/Chart/Properties.phpá å(
+%103"
+__arraySet*
+
+%102*
+
+'effect'*
+'innerShdw'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.phpá å(
+%104"
+__arraySet*
+
+%102*
+
+'blur'*	
+'63500'p
+n
+1
+%Classes/PHPExcel/Chart/Properties.phpá å(
+%105"
+__arraySet*
+
+%102*
+
+'distance'*	
+'50800't
+r
+1
+%Classes/PHPExcel/Chart/Properties.phpá å(
+%106"
+__arraySet*
+
+%102*
+'direction'*
+
+'10800000'a
+_
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%107"
+__arraySet*
+
+%1*2*
+
+%102EC
+1
+%Classes/PHPExcel/Chart/Properties.phpç í(
+%108"$Arrayr
+p
+1
+%Classes/PHPExcel/Chart/Properties.phpç í(
+%109"
+__arraySet*
+
+%108*
+
+'effect'*
+'innerShdw'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.phpç í(
+%110"
+__arraySet*
+
+%108*
+
+'blur'*	
+'63500'p
+n
+1
+%Classes/PHPExcel/Chart/Properties.phpç í(
+%111"
+__arraySet*
+
+%108*
+
+'distance'*	
+'50800't
+r
+1
+%Classes/PHPExcel/Chart/Properties.phpç í(
+%112"
+__arraySet*
+
+%108*
+'direction'*
+
+'18900000'a
+_
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%113"
+__arraySet*
+
+%1*2*
+
+%108EC
+1
+%Classes/PHPExcel/Chart/Properties.phpì ò(
+%114"$Arrayr
+p
+1
+%Classes/PHPExcel/Chart/Properties.phpì ò(
+%115"
+__arraySet*
+
+%114*
+
+'effect'*
+'innerShdw'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.phpì ò(
+%116"
+__arraySet*
+
+%114*
+
+'blur'*	
+'63500'p
+n
+1
+%Classes/PHPExcel/Chart/Properties.phpì ò(
+%117"
+__arraySet*
+
+%114*
+
+'distance'*	
+'50800't
+r
+1
+%Classes/PHPExcel/Chart/Properties.phpì ò(
+%118"
+__arraySet*
+
+%114*
+'direction'*
+
+'16200000'a
+_
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%119"
+__arraySet*
+
+%1*2*
+
+%114EC
+1
+%Classes/PHPExcel/Chart/Properties.phpô û(
+%120"$Arrayr
+p
+1
+%Classes/PHPExcel/Chart/Properties.phpô û(
+%121"
+__arraySet*
+
+%120*
+
+'effect'*
+'innerShdw'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.phpô û(
+%122"
+__arraySet*
+
+%120*
+
+'blur'*	
+'63500'p
+n
+1
+%Classes/PHPExcel/Chart/Properties.phpô û(
+%123"
+__arraySet*
+
+%120*
+
+'distance'*	
+'50800't
+r
+1
+%Classes/PHPExcel/Chart/Properties.phpô û(
+%124"
+__arraySet*
+
+%120*
+'direction'*
+
+'13500000'a
+_
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%125"
+__arraySet*
+
+%1*2*
+
+%120EC
+1
+%Classes/PHPExcel/Chart/Properties.php† ™(
+%126"$Arrayr
+p
+1
+%Classes/PHPExcel/Chart/Properties.php† ™(
+%127"
+__arraySet*
+
+%126*
+
+'effect'*
+'outerShdw'm
+k
+1
+%Classes/PHPExcel/Chart/Properties.php† ™(
+%128"
+__arraySet*
+
+%126*
+
+'blur'*
+
+'152400'q
+o
+1
+%Classes/PHPExcel/Chart/Properties.php† ™(
+%129"
+__arraySet*
+
+%126*
+
+'distance'*
+
+'317500'EC
+1
+%Classes/PHPExcel/Chart/Properties.php§ ß(
+%130"$Arrayj
+h
+1
+%Classes/PHPExcel/Chart/Properties.php§ ß(
+%131"
+__arraySet*
+
+%130*
+'sx'*	
+'90000'k
+i
+1
+%Classes/PHPExcel/Chart/Properties.php§ ß(
+%132"
+__arraySet*
+
+%130*
+'sy'*
+
+'-19000'i
+g
+1
+%Classes/PHPExcel/Chart/Properties.php† ™(
+%133"
+__arraySet*
+
+%126*
+
+'size'*
+
+%130s
+q
+1
+%Classes/PHPExcel/Chart/Properties.php† ™(
+%134"
+__arraySet*
+
+%126*
+'direction'*
+	'5400000'p
+n
+1
+%Classes/PHPExcel/Chart/Properties.php† ™(
+%135"
+__arraySet*
+
+%126*
+'rotWithShape'*
+'0'a
+_
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%136"
+__arraySet*
+
+%1*2*
+
+%126EC
+1
+%Classes/PHPExcel/Chart/Properties.php´ µ(
+%137"$Arrayr
+p
+1
+%Classes/PHPExcel/Chart/Properties.php´ µ(
+%138"
+__arraySet*
+
+%137*
+
+'effect'*
+'outerShdw'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.php´ µ(
+%139"
+__arraySet*
+
+%137*
+
+'blur'*	
+'76200't
+r
+1
+%Classes/PHPExcel/Chart/Properties.php´ µ(
+%140"
+__arraySet*
+
+%137*
+'direction'*
+
+'18900000'EC
+1
+%Classes/PHPExcel/Chart/Properties.phpØ ≤(
+%141"$Arrayj
+h
+1
+%Classes/PHPExcel/Chart/Properties.phpØ ≤(
+%142"
+__arraySet*
+
+%141*
+'sy'*	
+'23000'm
+k
+1
+%Classes/PHPExcel/Chart/Properties.phpØ ≤(
+%143"
+__arraySet*
+
+%141*
+'kx'*
+
+'-1200000'i
+g
+1
+%Classes/PHPExcel/Chart/Properties.php´ µ(
+%144"
+__arraySet*
+
+%137*
+
+'size'*
+
+%141i
+g
+1
+%Classes/PHPExcel/Chart/Properties.php´ µ(
+%145"
+__arraySet*
+
+%137*
+
+'algn'*
+'bl'p
+n
+1
+%Classes/PHPExcel/Chart/Properties.php´ µ(
+%146"
+__arraySet*
+
+%137*
+'rotWithShape'*
+'0'a
+_
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%147"
+__arraySet*
+
+%1*2*
+
+%137EC
+1
+%Classes/PHPExcel/Chart/Properties.php∂ ¿(
+%148"$Arrayr
+p
+1
+%Classes/PHPExcel/Chart/Properties.php∂ ¿(
+%149"
+__arraySet*
+
+%148*
+
+'effect'*
+'outerShdw'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.php∂ ¿(
+%150"
+__arraySet*
+
+%148*
+
+'blur'*	
+'76200't
+r
+1
+%Classes/PHPExcel/Chart/Properties.php∂ ¿(
+%151"
+__arraySet*
+
+%148*
+'direction'*
+
+'13500000'EC
+1
+%Classes/PHPExcel/Chart/Properties.php∫ Ω(
+%152"$Arrayj
+h
+1
+%Classes/PHPExcel/Chart/Properties.php∫ Ω(
+%153"
+__arraySet*
+
+%152*
+'sy'*	
+'23000'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.php∫ Ω(
+%154"
+__arraySet*
+
+%152*
+'kx'*
+	'1200000'i
+g
+1
+%Classes/PHPExcel/Chart/Properties.php∂ ¿(
+%155"
+__arraySet*
+
+%148*
+
+'size'*
+
+%152i
+g
+1
+%Classes/PHPExcel/Chart/Properties.php∂ ¿(
+%156"
+__arraySet*
+
+%148*
+
+'algn'*
+'br'p
+n
+1
+%Classes/PHPExcel/Chart/Properties.php∂ ¿(
+%157"
+__arraySet*
+
+%148*
+'rotWithShape'*
+'0'a
+_
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%158"
+__arraySet*
+
+%1*2*
+
+%148EC
+1
+%Classes/PHPExcel/Chart/Properties.php¡ Ã(
+%159"$Arrayr
+p
+1
+%Classes/PHPExcel/Chart/Properties.php¡ Ã(
+%160"
+__arraySet*
+
+%159*
+
+'effect'*
+'outerShdw'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.php¡ Ã(
+%161"
+__arraySet*
+
+%159*
+
+'blur'*	
+'76200'p
+n
+1
+%Classes/PHPExcel/Chart/Properties.php¡ Ã(
+%162"
+__arraySet*
+
+%159*
+
+'distance'*	
+'12700's
+q
+1
+%Classes/PHPExcel/Chart/Properties.php¡ Ã(
+%163"
+__arraySet*
+
+%159*
+'direction'*
+	'2700000'EC
+1
+%Classes/PHPExcel/Chart/Properties.php∆ …(
+%164"$Arrayk
+i
+1
+%Classes/PHPExcel/Chart/Properties.php∆ …(
+%165"
+__arraySet*
+
+%164*
+'sy'*
+
+'-23000'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.php∆ …(
+%166"
+__arraySet*
+
+%164*
+'kx'*
+	'-800400'i
+g
+1
+%Classes/PHPExcel/Chart/Properties.php¡ Ã(
+%167"
+__arraySet*
+
+%159*
+
+'size'*
+
+%164i
+g
+1
+%Classes/PHPExcel/Chart/Properties.php¡ Ã(
+%168"
+__arraySet*
+
+%159*
+
+'algn'*
+'bl'p
+n
+1
+%Classes/PHPExcel/Chart/Properties.php¡ Ã(
+%169"
+__arraySet*
+
+%159*
+'rotWithShape'*
+'0'a
+_
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%170"
+__arraySet*
+
+%1*2*
+
+%159EC
+1
+%Classes/PHPExcel/Chart/Properties.phpÕ ÿ(
+%171"$Arrayr
+p
+1
+%Classes/PHPExcel/Chart/Properties.phpÕ ÿ(
+%172"
+__arraySet*
+
+%171*
+
+'effect'*
+'outerShdw'l
+j
+1
+%Classes/PHPExcel/Chart/Properties.phpÕ ÿ(
+%173"
+__arraySet*
+
+%171*
+
+'blur'*	
+'76200'p
+n
+1
+%Classes/PHPExcel/Chart/Properties.phpÕ ÿ(
+%174"
+__arraySet*
+
+%171*
+
+'distance'*	
+'12700's
+q
+1
+%Classes/PHPExcel/Chart/Properties.phpÕ ÿ(
+%175"
+__arraySet*
+
+%171*
+'direction'*
+	'8100000'EC
+1
+%Classes/PHPExcel/Chart/Properties.php“ ’(
+%176"$Arrayk
+i
+1
+%Classes/PHPExcel/Chart/Properties.php“ ’(
+%177"
+__arraySet*
+
+%176*
+'sy'*
+
+'-23000'k
+i
+1
+%Classes/PHPExcel/Chart/Properties.php“ ’(
+%178"
+__arraySet*
+
+%176*
+'kx'*
+
+'800400'i
+g
+1
+%Classes/PHPExcel/Chart/Properties.phpÕ ÿ(
+%179"
+__arraySet*
+
+%171*
+
+'size'*
+
+%176i
+g
+1
+%Classes/PHPExcel/Chart/Properties.phpÕ ÿ(
+%180"
+__arraySet*
+
+%171*
+
+'algn'*
+'br'p
+n
+1
+%Classes/PHPExcel/Chart/Properties.phpÕ ÿ(
+%181"
+__arraySet*
+
+%171*
+'rotWithShape'*
+'0'a
+_
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+%182"
+__arraySet*
+
+%1*2*
+
+%171W
+U
+1
+%Classes/PHPExcel/Chart/Properties.phpü Ÿ(	
+$presets_options"__id*
+
+%1{
+y
+1
+%Classes/PHPExcel/Chart/Properties.php€ €(7
+%183"
+__arrayGet*
+
+$presets_options*
+
+$shadow_presets_option"=
+1
+%Classes/PHPExcel/Chart/Properties.php€ €(8
+
+%183:
+$shadow_presets_optionB
+phpexcel_chart_properties

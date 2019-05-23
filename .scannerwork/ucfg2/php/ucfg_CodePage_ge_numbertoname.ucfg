@@ -1,0 +1,289 @@
+
+&phpexcel_shared_codepage::numbertoname.
+$Classes/PHPExcel/Shared/CodePage.php& &('"68"25"27"29"70"72"74"31"76"33"78"35"37"39"100"102"104"106"80"82"84"41"86"43"88"45"47"49"110"112"114"90"92"94"51"96"53"98"11"56"13"58"15"17"19"3"5"9"60"62"64"21"66"23*t
+68.
+$Classes/PHPExcel/Shared/CodePage.phpl l( ">
+.
+$Classes/PHPExcel/Shared/CodePage.phpl l( 
+
+'CP1258'*s
+25.
+$Classes/PHPExcel/Shared/CodePage.php@ @("=
+.
+$Classes/PHPExcel/Shared/CodePage.php@ @(	
+'CP861'*s
+27.
+$Classes/PHPExcel/Shared/CodePage.phpB B("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpB B(	
+'CP862'*s
+29.
+$Classes/PHPExcel/Shared/CodePage.phpD D("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpD D(	
+'CP863'*t
+70.
+$Classes/PHPExcel/Shared/CodePage.phpn n( ">
+.
+$Classes/PHPExcel/Shared/CodePage.phpn n( 
+
+'CP1361'*q
+72.
+$Classes/PHPExcel/Shared/CodePage.phpp p(";
+.
+$Classes/PHPExcel/Shared/CodePage.phpp p(	
+'MAC'*s
+74.
+$Classes/PHPExcel/Shared/CodePage.phpr r("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpr r(	
+'CP932'*s
+31.
+$Classes/PHPExcel/Shared/CodePage.phpF F("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpF F(	
+'CP864'*s
+76.
+$Classes/PHPExcel/Shared/CodePage.phpt t("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpt t(	
+'CP950'*s
+33.
+$Classes/PHPExcel/Shared/CodePage.phpH H("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpH H(	
+'CP865'*t
+78.
+$Classes/PHPExcel/Shared/CodePage.phpv v( ">
+.
+$Classes/PHPExcel/Shared/CodePage.phpv v( 
+
+'CP1361'*s
+35.
+$Classes/PHPExcel/Shared/CodePage.phpJ J("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpJ J(	
+'CP866'*s
+37.
+$Classes/PHPExcel/Shared/CodePage.phpL L("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpL L(	
+'CP869'*s
+39.
+$Classes/PHPExcel/Shared/CodePage.phpN N("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpN N(	
+'CP874'*}
+1000
+$Classes/PHPExcel/Shared/CodePage.phpŒ Œ($"D
+0
+$Classes/PHPExcel/Shared/CodePage.phpŒ Œ($
+'MACTURKISH'*~
+1020
+$Classes/PHPExcel/Shared/CodePage.phpŽ Ž(%"E
+0
+$Classes/PHPExcel/Shared/CodePage.phpŽ Ž(%
+'MACCROATIAN'*{
+1040
+$Classes/PHPExcel/Shared/CodePage.php (""B
+0
+$Classes/PHPExcel/Shared/CodePage.php ("
+
+'UTF-16LE'*v
+1060
+$Classes/PHPExcel/Shared/CodePage.php’ ’("=
+0
+$Classes/PHPExcel/Shared/CodePage.php’ ’(	
+'MAC'*w
+80.
+$Classes/PHPExcel/Shared/CodePage.phpx x(#"A
+.
+$Classes/PHPExcel/Shared/CodePage.phpx x(#
+'MACARABIC'*w
+82.
+$Classes/PHPExcel/Shared/CodePage.phpz z(#"A
+.
+$Classes/PHPExcel/Shared/CodePage.phpz z(#
+'MACHEBREW'*v
+84.
+$Classes/PHPExcel/Shared/CodePage.php| |(""@
+.
+$Classes/PHPExcel/Shared/CodePage.php| |("
+
+'MACGREEK'*s
+41.
+$Classes/PHPExcel/Shared/CodePage.phpP P("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpP P(	
+'CP932'*y
+86.
+$Classes/PHPExcel/Shared/CodePage.php~ ~(%"C
+.
+$Classes/PHPExcel/Shared/CodePage.php~ ~(%
+'MACCYRILLIC'*s
+43.
+$Classes/PHPExcel/Shared/CodePage.phpR R("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpR R(	
+'CP936'*w
+880
+$Classes/PHPExcel/Shared/CodePage.php€ €("?
+0
+$Classes/PHPExcel/Shared/CodePage.php€ €(	
+'CP936'*s
+45.
+$Classes/PHPExcel/Shared/CodePage.phpT T("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpT T(	
+'CP949'*s
+47.
+$Classes/PHPExcel/Shared/CodePage.phpV V("=
+.
+$Classes/PHPExcel/Shared/CodePage.phpV V(	
+'CP950'*v
+49.
+$Classes/PHPExcel/Shared/CodePage.phpX X(""@
+.
+$Classes/PHPExcel/Shared/CodePage.phpX X("
+
+'UTF-16LE'*x
+1100
+$Classes/PHPExcel/Shared/CodePage.php– –("?
+0
+$Classes/PHPExcel/Shared/CodePage.php– –(	
+'UTF-7'*x
+1120
+$Classes/PHPExcel/Shared/CodePage.php˜ ˜("?
+0
+$Classes/PHPExcel/Shared/CodePage.php˜ ˜(	
+'UTF-8'*^
+114
+CodePage.php"G
+0
+$Classes/PHPExcel/Shared/CodePage.php› ›(
+implicit return*|
+900
+$Classes/PHPExcel/Shared/CodePage.php‚ ‚($"D
+0
+$Classes/PHPExcel/Shared/CodePage.php‚ ‚($
+'MACROMANIA'*|
+920
+$Classes/PHPExcel/Shared/CodePage.php„ „($"D
+0
+$Classes/PHPExcel/Shared/CodePage.php„ „($
+'MACUKRAINE'*y
+940
+$Classes/PHPExcel/Shared/CodePage.php† †(!"A
+0
+$Classes/PHPExcel/Shared/CodePage.php† †(!
+	'MACTHAI'*t
+51.
+$Classes/PHPExcel/Shared/CodePage.phpZ Z( ">
+.
+$Classes/PHPExcel/Shared/CodePage.phpZ Z( 
+
+'CP1250'*‚
+960
+$Classes/PHPExcel/Shared/CodePage.phpˆ ˆ(*"J
+0
+$Classes/PHPExcel/Shared/CodePage.phpˆ ˆ(*
+'MACCENTRALEUROPE'*t
+53.
+$Classes/PHPExcel/Shared/CodePage.php\ \( ">
+.
+$Classes/PHPExcel/Shared/CodePage.php\ \( 
+
+'CP1251'*|
+980
+$Classes/PHPExcel/Shared/CodePage.phpŠ Š($"D
+0
+$Classes/PHPExcel/Shared/CodePage.phpŠ Š($
+'MACICELAND'*s
+11.
+$Classes/PHPExcel/Shared/CodePage.php2 2("=
+.
+$Classes/PHPExcel/Shared/CodePage.php2 2(	
+'CP775'*t
+56.
+$Classes/PHPExcel/Shared/CodePage.php` `( ">
+.
+$Classes/PHPExcel/Shared/CodePage.php` `( 
+
+'CP1252'*s
+13.
+$Classes/PHPExcel/Shared/CodePage.php4 4("=
+.
+$Classes/PHPExcel/Shared/CodePage.php4 4(	
+'CP850'*t
+58.
+$Classes/PHPExcel/Shared/CodePage.phpb b( ">
+.
+$Classes/PHPExcel/Shared/CodePage.phpb b( 
+
+'CP1253'*s
+15.
+$Classes/PHPExcel/Shared/CodePage.php6 6("=
+.
+$Classes/PHPExcel/Shared/CodePage.php6 6(	
+'CP852'*s
+17.
+$Classes/PHPExcel/Shared/CodePage.php8 8("=
+.
+$Classes/PHPExcel/Shared/CodePage.php8 8(	
+'CP855'*s
+19.
+$Classes/PHPExcel/Shared/CodePage.php: :("=
+.
+$Classes/PHPExcel/Shared/CodePage.php: :(	
+'CP857'*r
+3.
+$Classes/PHPExcel/Shared/CodePage.php* *("=
+.
+$Classes/PHPExcel/Shared/CodePage.php* *(	
+'ASCII'*r
+5.
+$Classes/PHPExcel/Shared/CodePage.php, ,("=
+.
+$Classes/PHPExcel/Shared/CodePage.php, ,(	
+'CP437'*r
+9.
+$Classes/PHPExcel/Shared/CodePage.php0 0("=
+.
+$Classes/PHPExcel/Shared/CodePage.php0 0(	
+'CP737'*t
+60.
+$Classes/PHPExcel/Shared/CodePage.phpd d( ">
+.
+$Classes/PHPExcel/Shared/CodePage.phpd d( 
+
+'CP1254'*t
+62.
+$Classes/PHPExcel/Shared/CodePage.phpf f( ">
+.
+$Classes/PHPExcel/Shared/CodePage.phpf f( 
+
+'CP1255'*t
+64.
+$Classes/PHPExcel/Shared/CodePage.phph h( ">
+.
+$Classes/PHPExcel/Shared/CodePage.phph h( 
+
+'CP1256'*s
+21.
+$Classes/PHPExcel/Shared/CodePage.php< <("=
+.
+$Classes/PHPExcel/Shared/CodePage.php< <(	
+'CP858'*t
+66.
+$Classes/PHPExcel/Shared/CodePage.phpj j( ">
+.
+$Classes/PHPExcel/Shared/CodePage.phpj j( 
+
+'CP1257'*s
+23.
+$Classes/PHPExcel/Shared/CodePage.php> >("=
+.
+$Classes/PHPExcel/Shared/CodePage.php> >(	
+'CP860':
+	$codePageB
+phpexcel_shared_codepage

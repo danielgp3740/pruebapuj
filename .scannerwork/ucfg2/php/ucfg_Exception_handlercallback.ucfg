@@ -1,0 +1,31 @@
+
+4phpexcel_calculation_exception::errorhandlercallback4
+*Classes/PHPExcel/Calculation/Exception.php' '(/"1*a
+2
+Exception.php"K
+4
+*Classes/PHPExcel/Calculation/Exception.php- -(
+implicit return*÷
+14
+*Classes/PHPExcel/Calculation/Exception.php) )(&DB
+4
+*Classes/PHPExcel/Calculation/Exception.php) )(%
+$e"selfq
+o
+4
+*Classes/PHPExcel/Calculation/Exception.php) )(%
+%1"self::__construct*
+
+$e*
+	
+$string*	
+
+$code*
+2:
+$code:	
+$string:
+$file:
+$line:
+
+$contextB" 
+phpexcel_calculation_exception

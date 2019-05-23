@@ -1,0 +1,49 @@
+
+$phpexcel_power_best_fit::getequation=
+3Classes/PHPExcel/Shared/trend/powerBestFitClass.phpG G("1*Å
+1=
+3Classes/PHPExcel/Shared/trend/powerBestFitClass.phpI I(&wu
+=
+3Classes/PHPExcel/Shared/trend/powerBestFitClass.phpI I(%
+%1*
+phpexcel_power_best_fit*
+
+$dp2getslopeY
+W
+=
+3Classes/PHPExcel/Shared/trend/powerBestFitClass.phpI I(%
+$slope"__id*
+
+%1{y
+=
+3Classes/PHPExcel/Shared/trend/powerBestFitClass.phpJ J(-
+%2*
+phpexcel_power_best_fit*
+
+$dp2getintersect]
+[
+=
+3Classes/PHPExcel/Shared/trend/powerBestFitClass.phpJ J(-
+
+$intersect"__id*
+
+%2‡
+„
+=
+3Classes/PHPExcel/Shared/trend/powerBestFitClass.phpL L(5
+%3"__concat*
+
+'Y = '*
+
+
+$intersect*	
+' * X^'*
+
+
+$slope"G
+=
+3Classes/PHPExcel/Shared/trend/powerBestFitClass.phpL L(6
+
+%3:
+$dpB
+phpexcel_power_best_fit

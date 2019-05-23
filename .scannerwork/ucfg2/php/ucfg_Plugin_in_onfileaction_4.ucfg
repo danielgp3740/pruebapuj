@@ -1,0 +1,80 @@
+
+!moxman_quota_plugin::onfileactionN
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php: :("1*¶	
+3N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php> >(H|
+z
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php> >($
+%2"moxman::getuserstorage*
+"
+moxmanb`
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php>8 >(F
+%3"stdclassw
+u
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php>8 >(F
+%4"stdclass::__construct*
+
+%3}
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php> >(G
+%5*
+
+%2*
+"quota.dirs"*
+
+%32geti
+g
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php> >(G
+$dirs"__id*
+
+%5lj
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php? ?('
+%6*	
+
+$args2getfileíè
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php? ?(/
+%7*
+moxman_quota_plugin*
+
+%6*	
+
+$dirs2recalcquota|
+z
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php@ @(
+%8"moxman::getuserstorage*
+"
+moxmanÉÄ
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php@ @(6
+%9*
+
+%8*
+"quota.dirs"*	
+
+$dirs2put*
+4*x
+4
+
+Plugin.php"e
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.phpC C(
+implicit return*À
+1N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php;	 ;(nl
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php;
+ ;(
+%1*	
+
+$args2	getaction*
+3
+4:
+$argsB
+moxman_quota_plugin

@@ -1,0 +1,41 @@
+
+imagelib::borderpreset:
+.app/filemanager/include/php_image_magician.phpÅ Å("3"5*ã
+3:
+.app/filemanager/include/php_image_magician.phpá á($om
+:
+.app/filemanager/include/php_image_magician.phpá á(#
+%1*
+
+imagelib*2*
+
+'#fff'2	addborderrp
+:
+.app/filemanager/include/php_image_magician.phpà à(&
+%2*
+
+imagelib*2*
+	'#f2f1f0'2	addborderom
+:
+.app/filemanager/include/php_image_magician.phpâ â(#
+%3*
+
+imagelib*2*
+
+'#fff'2	addborderom
+:
+.app/filemanager/include/php_image_magician.phpä ä(#
+%4*
+
+imagelib*2*
+
+'#ccc'2	addborder*
+5*p
+5
+php_image_magician.php"Q
+:
+.app/filemanager/include/php_image_magician.phpê ê(
+implicit return:	
+$presetB
+
+imagelib

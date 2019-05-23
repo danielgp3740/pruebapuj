@@ -1,0 +1,60 @@
+
+moxman_uploaded_plugin::initQ
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Uploaded/Plugin.php ("1*{
+2
+
+Plugin.php"h
+Q
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Uploaded/Plugin.php (
+implicit return*–
+1Q
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Uploaded/Plugin.php (_Ü
+É
+Q
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Uploaded/Plugin.php ( 
+%1"moxman::getfilesystemmanager*
+"
+moxman™ß
+Q
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Uploaded/Plugin.php (^
+%2*
+
+%1*
+
+"uploaded"* 
+"MOXMAN_Uploaded_FileSystem"2registerfilesystemÜ
+É
+Q
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Uploaded/Plugin.php ( 
+%3"moxman::getfilesystemmanager*
+"
+moxmanäá
+Q
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Uploaded/Plugin.php (B
+%4*
+
+%3*
+"Uploaded=uploaded:///"2addrootÅ
+
+Q
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Uploaded/Plugin.php (
+%5"moxman::getpluginmanager*
+"
+moxmantr
+Q
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Uploaded/Plugin.php ()
+%6*
+
+%5*
+
+"core"2get¨©
+Q
+Gapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Uploaded/Plugin.php (T
+%7*
+
+%6*
+"FileAction"*
+"onFileAction"*
+moxman_uploaded_plugin2bind*
+2B
+moxman_uploaded_plugin

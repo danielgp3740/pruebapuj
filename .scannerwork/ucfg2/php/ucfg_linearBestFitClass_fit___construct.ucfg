@@ -1,0 +1,45 @@
+
+%phpexcel_linear_best_fit::__construct>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.php` `("1*ì
+2>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpc c(@¡ž
+>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpc c(?
+%2*
+phpexcel_linear_best_fit*
+
+
+$yValues*
+
+
+$xValues*
+
+
+$const2linearregression*
+3*t
+3
+linearBestFitClass.php"U
+>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpe e(
+implicit return*ñ
+1>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpb b(=£
+ 
+>
+4Classes/PHPExcel/Shared/trend/linearBestFitClass.phpb b(3
+%1"phpexcel_best_fit::__construct*
+phpexcel_linear_best_fit*
+
+
+$yValues*
+
+
+$xValues*
+2
+3:
+
+$yValues:
+
+$xValues:
+$constB
+phpexcel_linear_best_fit

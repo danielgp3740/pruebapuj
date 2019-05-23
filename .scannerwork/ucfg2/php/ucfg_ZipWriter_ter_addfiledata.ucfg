@@ -1,0 +1,44 @@
+
+!moxman_zip_zipwriter::addfiledataO
+Eapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Zip/ZipWriter.php? ?("1*|
+2
+ZipWriter.php"f
+O
+Eapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Zip/ZipWriter.phpA A(
+implicit return*Ò
+1O
+Eapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Zip/ZipWriter.php@ @(=a_
+O
+Eapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Zip/ZipWriter.php@% @(;
+%1"$Array…
+‚
+O
+Eapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Zip/ZipWriter.php@% @(;
+%2"
+__arraySet*
+
+%1*
+
+"data"*	
+
+$datau
+s
+O
+Eapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Zip/ZipWriter.php@ @(;
+%3"__passthrough_cast*
+
+%1”‘
+O
+Eapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Zip/ZipWriter.php@ @(<
+%4*
+moxman_zip_zipwriter*
+
+
+$zipPath*
+
+%32addentry*
+2:
+
+$zipPath:
+$dataB
+moxman_zip_zipwriter

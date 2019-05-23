@@ -1,0 +1,10 @@
+
+-moxman_vfs_local_fileurlresolver::__construct[
+Qapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileUrlResolver.php ("2*Ž
+2
+FileUrlResolver.php"r
+[
+Qapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileUrlResolver.php (
+implicit return:
+$filesystemB$"
+ moxman_vfs_local_fileurlresolver

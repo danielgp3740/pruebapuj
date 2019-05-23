@@ -1,0 +1,80 @@
+
+&moxman_core_getappkeyscommand::executeX
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php ("1*∞
+1X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php ( Å
+
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php (
+%1"moxman::getconfig*
+"
+moxmanu
+s
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php (	
+$config"__id*
+
+%1jh
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php (
+%2"$Arrayèå
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php (=
+%3*
+	
+$config*
+"skydrive.client_id"2getô
+ñ
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php (
+%4"
+__arraySet*
+
+%2*
+"skydrive.client_id"*
+
+%3íè
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php (C
+%5*
+	
+$config*
+"googledrive.client_id"2getú
+ô
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php (
+%6"
+__arraySet*
+
+%2*
+"googledrive.client_id"*
+
+%5ãà
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php (5
+%7*
+	
+$config*
+"dropbox.app_id"2getï
+í
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php (
+%8"
+__arraySet*
+
+%2*
+"dropbox.app_id"*
+
+%7~
+|
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php	 (
+%9"__passthrough_cast*
+
+%2"b
+X
+Napp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/GetAppKeysCommand.php (
+
+%9:	
+$paramsB!
+moxman_core_getappkeyscommand

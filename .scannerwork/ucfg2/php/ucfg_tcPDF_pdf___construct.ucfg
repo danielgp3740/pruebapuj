@@ -1,0 +1,20 @@
+
+&phpexcel_writer_pdf_tcpdf::__construct/
+%Classes/PHPExcel/Writer/PDF/tcPDF.php, ,("1*X
+2
+	tcPDF.php"F
+/
+%Classes/PHPExcel/Writer/PDF/tcPDF.php/ /(
+implicit return*À
+1/
+%Classes/PHPExcel/Writer/PDF/tcPDF.php. .('è
+å
+/
+%Classes/PHPExcel/Writer/PDF/tcPDF.php. .(&
+%1"%phpexcel_writer_pdf_core::__construct*
+phpexcel_writer_pdf_tcpdf*
+
+	$phpExcel*
+2:
+	$phpExcelB
+phpexcel_writer_pdf_tcpdf

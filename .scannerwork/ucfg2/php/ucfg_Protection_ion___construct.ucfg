@@ -1,0 +1,21 @@
+
+&phpexcel_style_protection::__construct/
+%Classes/PHPExcel/Style/Protection.php; ;("1*]
+3
+Protection.php"F
+/
+%Classes/PHPExcel/Style/Protection.phpE E(
+implicit return*Ð
+1/
+%Classes/PHPExcel/Style/Protection.php> >(+”
+‘
+/
+%Classes/PHPExcel/Style/Protection.php> >(*
+%1"&phpexcel_style_supervisor::__construct*
+phpexcel_style_protection*
+
+$isSupervisor*
+3:
+$isSupervisor:
+$isConditionalB
+phpexcel_style_protection

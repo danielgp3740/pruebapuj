@@ -1,0 +1,32 @@
+
+/phpexcel_worksheet_rowcelliterator::__construct8
+.Classes/PHPExcel/Worksheet/RowCellIterator.php; ;("1*k
+2
+RowCellIterator.php"O
+8
+.Classes/PHPExcel/Worksheet/RowCellIterator.phpB B(
+implicit return*Ö
+18
+.Classes/PHPExcel/Worksheet/RowCellIterator.php> >("…‚
+8
+.Classes/PHPExcel/Worksheet/RowCellIterator.php@ @(#
+%1*&$
+"phpexcel_worksheet_rowcelliterator*
+
+
+$endColumn2resetend‰†
+8
+.Classes/PHPExcel/Worksheet/RowCellIterator.phpA A('
+%2*&$
+"phpexcel_worksheet_rowcelliterator*
+
+$startColumn2
+resetstart*
+2:
+
+$subject:
+	$rowIndex:
+$startColumn:
+
+$endColumnB&$
+"phpexcel_worksheet_rowcelliterator

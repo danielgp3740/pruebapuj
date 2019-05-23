@@ -1,0 +1,52 @@
+
++phpexcel_worksheet::refreshcolumndimensions*
+Classes/PHPExcel/Worksheet.phpá á(+"1*ì
+3*
+Classes/PHPExcel/Worksheet.phpç ç(^][
+*
+Classes/PHPExcel/Worksheet.phpç! ç(F
+%4*
+
+$objColumnDimension2getcolumnindex{
+y
+*
+Classes/PHPExcel/Worksheet.phpç ç(G
+%3"
+__arraySet*
+
+$newColumnDimensions*
+
+%4*
+
+$objColumnDimension*
+3
+4*u
+4*
+Classes/PHPExcel/Worksheet.phpê ê(7"D
+*
+Classes/PHPExcel/Worksheet.phpí í(
+phpexcel_worksheet*à
+1*
+Classes/PHPExcel/Worksheet.phpâ â(@a_
+*
+Classes/PHPExcel/Worksheet.phpâ# â(?
+%1*
+phpexcel_worksheet2getcolumndimensionsX
+V
+*
+Classes/PHPExcel/Worksheet.phpâ â(?
+$currentColumnDimensions"__id*
+
+%1<:
+*
+Classes/PHPExcel/Worksheet.phpä ä(&
+%2"$ArrayT
+R
+*
+Classes/PHPExcel/Worksheet.phpä ä(&
+$newColumnDimensions"__id*
+
+%2*
+3
+4B
+phpexcel_worksheet

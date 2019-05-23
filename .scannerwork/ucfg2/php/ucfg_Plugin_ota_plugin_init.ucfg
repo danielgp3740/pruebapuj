@@ -1,0 +1,55 @@
+
+moxman_quota_plugin::initN
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php ("1*x
+2
+
+Plugin.php"e
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php (
+implicit return*œ
+1N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php (U~
+|
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php (
+%1"moxman::getpluginmanager*
+"
+moxmanqo
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php ()
+%2*
+
+%1*
+
+"core"2get¦£
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php (T
+%3*
+
+%2*
+"FileAction"*
+"onFileAction"*
+moxman_quota_plugin2bind~
+|
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php (
+%4"moxman::getpluginmanager*
+"
+moxmanqo
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php ()
+%5*
+
+%4*
+
+"core"2get²¯
+N
+Dapp/tinymce/js/tinymce/plugins/moxiemanager/plugins/Quota/Plugin.php (`
+%6*
+
+%5*
+"BeforeFileAction"*
+"onBeforeFileAction"*
+moxman_quota_plugin2bind*
+2B
+moxman_quota_plugin

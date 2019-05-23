@@ -1,0 +1,34 @@
+
+phpexcel_iofactory::load*
+Classes/PHPExcel/IOFactory.php½ ½("1*ò
+1*
+Classes/PHPExcel/IOFactory.php¿ ¿(8i
+g
+*
+Classes/PHPExcel/IOFactory.php¿ ¿(7
+%1"self::createreaderforfile*"
+self*
+
+
+$pFilenameG
+E
+*
+Classes/PHPExcel/IOFactory.php¿ ¿(7	
+$reader"__id*
+
+%1WU
+*
+Classes/PHPExcel/IOFactory.phpÀ À((
+%2*
+	
+$reader*
+
+
+$pFilename2load"4
+*
+Classes/PHPExcel/IOFactory.phpÀ À()
+
+%2:
+
+$pFilenameB
+phpexcel_iofactory

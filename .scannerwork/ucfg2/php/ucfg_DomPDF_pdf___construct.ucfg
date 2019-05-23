@@ -1,0 +1,21 @@
+
+'phpexcel_writer_pdf_dompdf::__construct0
+&Classes/PHPExcel/Writer/PDF/DomPDF.php+ +("1*Z
+2
+
+DomPDF.php"G
+0
+&Classes/PHPExcel/Writer/PDF/DomPDF.php. .(
+implicit return*Î
+10
+&Classes/PHPExcel/Writer/PDF/DomPDF.php- -('‘
+Ž
+0
+&Classes/PHPExcel/Writer/PDF/DomPDF.php- -(&
+%1"%phpexcel_writer_pdf_core::__construct*
+phpexcel_writer_pdf_dompdf*
+
+	$phpExcel*
+2:
+	$phpExcelB
+phpexcel_writer_pdf_dompdf

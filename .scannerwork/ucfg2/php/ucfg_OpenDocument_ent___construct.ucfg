@@ -1,0 +1,99 @@
+
+)phpexcel_writer_opendocument::__construct2
+(Classes/PHPExcel/Writer/OpenDocument.php1 1("1*b
+4
+OpenDocument.php"I
+2
+(Classes/PHPExcel/Writer/OpenDocument.phpB B(
+implicit return*∆
+
+12
+(Classes/PHPExcel/Writer/OpenDocument.php3 3('{y
+2
+(Classes/PHPExcel/Writer/OpenDocument.php3 3(&
+%1* 
+phpexcel_writer_opendocument*
+
+
+$pPHPExcel2setphpexcelDB
+2
+(Classes/PHPExcel/Writer/OpenDocument.php5 =(	
+%2"$Arrayå
+â
+2
+(Classes/PHPExcel/Writer/OpenDocument.php5 =(	
+%3"
+__arraySet*
+
+%2*
+	'content'**(
+&'PHPExcel_Writer_OpenDocument_Content'Ü
+É
+2
+(Classes/PHPExcel/Writer/OpenDocument.php5 =(	
+%4"
+__arraySet*
+
+%2*
+
+'meta'*'%
+#'PHPExcel_Writer_OpenDocument_Meta'ç
+ä
+2
+(Classes/PHPExcel/Writer/OpenDocument.php5 =(	
+%5"
+__arraySet*
+
+%2*
+
+'meta_inf'**(
+&'PHPExcel_Writer_OpenDocument_MetaInf'é
+ã
+2
+(Classes/PHPExcel/Writer/OpenDocument.php5 =(	
+%6"
+__arraySet*
+
+%2*
+
+'mimetype'*+)
+''PHPExcel_Writer_OpenDocument_Mimetype'é
+ã
+2
+(Classes/PHPExcel/Writer/OpenDocument.php5 =(	
+%7"
+__arraySet*
+
+%2*
+
+'settings'*+)
+''PHPExcel_Writer_OpenDocument_Settings'ä
+á
+2
+(Classes/PHPExcel/Writer/OpenDocument.php5 =(	
+%8"
+__arraySet*
+
+%2*
+
+'styles'*)'
+%'PHPExcel_Writer_OpenDocument_Styles'í
+è
+2
+(Classes/PHPExcel/Writer/OpenDocument.php5 =(	
+%9"
+__arraySet*
+
+%2*
+'thumbnails'*-+
+)'PHPExcel_Writer_OpenDocument_Thumbnails'Y
+W
+2
+(Classes/PHPExcel/Writer/OpenDocument.php5 =(	
+$writerPartsArray"__id*
+
+%2*
+4:
+
+$pPHPExcelB 
+phpexcel_writer_opendocument

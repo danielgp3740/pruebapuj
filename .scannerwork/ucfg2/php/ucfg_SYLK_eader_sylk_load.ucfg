@@ -1,0 +1,30 @@
+
+phpexcel_reader_sylk::load,
+ Classes/PHPExcel/Reader/SYLK.phpÅ Å("1*ž
+1,
+ Classes/PHPExcel/Reader/SYLK.phpÈ È(&JH
+,
+ Classes/PHPExcel/Reader/SYLK.phpÈ È(%
+$objPHPExcel"phpexcel_
+]
+,
+ Classes/PHPExcel/Reader/SYLK.phpÈ È(%
+%1"phpexcel::__construct*
+
+$objPHPExcel…‚
+,
+ Classes/PHPExcel/Reader/SYLK.phpË Ë(@
+%2*
+phpexcel_reader_sylk*
+
+
+$pFilename*
+
+$objPHPExcel2loadintoexisting"6
+,
+ Classes/PHPExcel/Reader/SYLK.phpË Ë(A
+
+%2:
+
+$pFilenameB
+phpexcel_reader_sylk

@@ -1,0 +1,108 @@
+
+(phpexcel_referencehelper::adjustcomments0
+$Classes/PHPExcel/ReferenceHelper.phpÈ È(%"1*ø
+30
+$Classes/PHPExcel/ReferenceHelper.phpÏ Ï(kµ
+²
+0
+$Classes/PHPExcel/ReferenceHelper.phpÏ Ï(k
+%3"self::celladdressindeleterange*"
+self*
+
+$key*
+
+
+$beforeRow*
+
+	$pNumRows*
+
+$beforeColumnIndex*
+
+	$pNumCols*	
+3
+4
+5*³
+40
+$Classes/PHPExcel/ReferenceHelper.phpÑ Ñ(a¤¡
+0
+$Classes/PHPExcel/ReferenceHelper.phpÑ  Ñ(`
+%4*
+phpexcel_referencehelper*
+
+$key*
+
+
+$pBefore*
+
+	$pNumCols*
+
+	$pNumRows2updatecellreferenceS
+Q
+0
+$Classes/PHPExcel/ReferenceHelper.phpÑ Ñ(`
+$newReference"__id*
+
+%4x
+v
+0
+$Classes/PHPExcel/ReferenceHelper.phpÒ Ò(,
+%5"
+__arraySet*
+
+$aNewComments*
+
+$newReference*
+
+
+$value*
+3
+5*£
+50
+$Classes/PHPExcel/ReferenceHelper.phpÖ Ö(,ge
+0
+$Classes/PHPExcel/ReferenceHelper.phpÖ Ö(+
+%6*
+	
+$pSheet*
+
+$aNewComments2setcomments*
+6*c
+6
+ReferenceHelper.php"G
+0
+$Classes/PHPExcel/ReferenceHelper.php× ×(
+implicit return*þ
+10
+$Classes/PHPExcel/ReferenceHelper.phpÊ Ê(,TR
+0
+$Classes/PHPExcel/ReferenceHelper.phpÊ Ê(+
+%1*
+	
+$pSheet2getcommentsP
+N
+0
+$Classes/PHPExcel/ReferenceHelper.phpÊ Ê(+
+
+$aComments"__id*
+
+%1B@
+0
+$Classes/PHPExcel/ReferenceHelper.phpË Ë(
+%2"$ArrayS
+Q
+0
+$Classes/PHPExcel/ReferenceHelper.phpË Ë(
+$aNewComments"__id*
+
+%2*
+3
+5:	
+$pSheet:
+
+$pBefore:
+$beforeColumnIndex:
+	$pNumCols:
+
+$beforeRow:
+	$pNumRowsB
+phpexcel_referencehelper

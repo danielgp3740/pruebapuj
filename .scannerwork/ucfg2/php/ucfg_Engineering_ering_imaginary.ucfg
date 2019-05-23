@@ -1,0 +1,45 @@
+
++phpexcel_calculation_engineering::imaginary8
+,Classes/PHPExcel/Calculation/Engineering.phpû û($"1*Ú
+18
+,Classes/PHPExcel/Calculation/Engineering.phpý ý(_¯
+¬
+8
+,Classes/PHPExcel/Calculation/Engineering.phpý ý(^
+%1"2phpexcel_calculation_functions::flattensinglevalue*"" 
+phpexcel_calculation_functions*
+
+$complexNumber\
+Z
+8
+,Classes/PHPExcel/Calculation/Engineering.phpý ý(^
+$complexNumber"__id*
+
+%1t
+r
+8
+,Classes/PHPExcel/Calculation/Engineering.phpÿ ÿ(;
+%2"self::parsecomplex*"
+self*
+
+$complexNumber\
+Z
+8
+,Classes/PHPExcel/Calculation/Engineering.phpÿ ÿ(;
+$parsedComplex"__id*
+
+%2s
+q
+8
+,Classes/PHPExcel/Calculation/Engineering.php€ €(*
+%3"
+__arrayGet*
+
+$parsedComplex*
+'imaginary'"B
+8
+,Classes/PHPExcel/Calculation/Engineering.php€ €(+
+
+%3:
+$complexNumberB$"
+ phpexcel_calculation_engineering

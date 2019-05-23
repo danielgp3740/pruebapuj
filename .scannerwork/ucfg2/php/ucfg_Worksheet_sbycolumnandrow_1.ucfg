@@ -1,0 +1,58 @@
+
+,phpexcel_worksheet::mergecellsbycolumnandrow*
+Classes/PHPExcel/Worksheet.phpº º(,"1*å
+1+
+Classes/PHPExcel/Worksheet.phpæ æ(è|
+z
+*
+Classes/PHPExcel/Worksheet.phpæ æ(D
+%1"$phpexcel_cell::stringfromcolumnindex*"
+phpexcel_cell*
+
+	$pColumn1}
+{
++
+Classes/PHPExcel/Worksheet.phpæV æ(Ö
+%2"$phpexcel_cell::stringfromcolumnindex*"
+phpexcel_cell*
+
+	$pColumn2p
+n
++
+Classes/PHPExcel/Worksheet.phpæ æ(é
+%3"__concat*
+
+%1*
+
+
+$pRow1*
+':'*
+
+%2*
+
+
+$pRow2K
+I
++
+Classes/PHPExcel/Worksheet.phpæ æ(é
+
+$cellRange"__id*
+
+%3hf
+*
+Classes/PHPExcel/Worksheet.phpø ø(,
+%4*
+phpexcel_worksheet*
+
+
+$cellRange2
+mergecells"4
+*
+Classes/PHPExcel/Worksheet.phpø ø(-
+
+%4:
+	$pColumn1:
+$pRow1:
+	$pColumn2:
+$pRow2B
+phpexcel_worksheet

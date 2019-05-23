@@ -1,0 +1,47 @@
+
+"moxman_core_plugin::firefileactionO
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpá á( "1*Ù
+1O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpâ â(>}{
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpâ â(=
+$args"moxman_core_fileactioneventargs«
+¨
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpâ â(=
+%1",moxman_core_fileactioneventargs::__construct*	
+
+$args*
+	
+$action*	
+
+$file
+}
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpå	 å(#
+%2"moxman::getpluginmanager*
+"
+moxmanrp
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpå	 å(0
+%3*
+
+%2*
+
+"core"2get…‚
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpå	 å(K
+%4*
+
+%3*
+"FileAction"*	
+
+$args2fire"Y
+O
+Capp/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/Plugin.phpå å(L
+
+%4:	
+$action:
+$file:
+$dataB
+moxman_core_plugin

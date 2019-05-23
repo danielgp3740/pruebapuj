@@ -1,0 +1,83 @@
+
+#phpexcel_calculation::listfunctions,
+ Classes/PHPExcel/Calculation.phpû! û!(!"1*£
+3,
+ Classes/PHPExcel/Calculation.php€" €"(Te
+c
+,
+ Classes/PHPExcel/Calculation.php€" €"()
+%2"
+__arrayGet*
+
+	$function*
+'functionCall'*	
+3
+4
+5*Ü
+4,
+ Classes/PHPExcel/Calculation.php" …"(a
+_
+,
+ Classes/PHPExcel/Calculation.php‚" ‚"()
+%4"
+__arrayGet*
+
+	$function*
+
+'category'e
+c
+,
+ Classes/PHPExcel/Calculation.php„" „"(-
+%5"
+__arrayGet*
+
+	$function*
+'functionCall'US
+,
+ Classes/PHPExcel/Calculation.php". …"(
+%3"phpexcel_calculation_functionŽ
+‹
+,
+ Classes/PHPExcel/Calculation.php". …"(
+%6"*phpexcel_calculation_function::__construct*
+
+%3*
+
+%4*
+
+$functionName*
+
+%5o
+m
+,
+ Classes/PHPExcel/Calculation.php" "(+
+%7"
+__arraySet*
+
+$returnValue*
+
+$functionName*
+
+%3*
+3
+5*s
+5,
+ Classes/PHPExcel/Calculation.php‰" ‰"("@
+,
+ Classes/PHPExcel/Calculation.php‰" ‰"(
+
+$returnValue*É
+1,
+ Classes/PHPExcel/Calculation.phpý! ý!(><
+,
+ Classes/PHPExcel/Calculation.phpý! ý!(
+%1"$ArrayN
+L
+,
+ Classes/PHPExcel/Calculation.phpý! ý!(
+$returnValue"__id*
+
+%1*
+3
+5B
+phpexcel_calculation

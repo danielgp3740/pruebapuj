@@ -1,0 +1,52 @@
+
+#moxman_exception::throwruntimeerrorK
+Aapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Exception.phpJ J()"1*x
+2
+Exception.php"b
+K
+Aapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Exception.phpQ Q(
+implicit return*ã
+1K
+Aapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Exception.phpK K(5om
+K
+Aapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Exception.phpK K(4
+
+$exception"moxman_exceptionž
+›
+K
+Aapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Exception.phpK K(4
+%1"moxman_exception::__construct*
+
+
+$exception*
+	
+$errstr*
+
+
+$errno|z
+K
+Aapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Exception.phpM M(
+%2*
+
+
+$exception*
+
+
+$errfile2setfile|z
+K
+Aapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Exception.phpN N(
+%3*
+
+
+$exception*
+
+
+$errline2setline*
+2:
+$errno:	
+$errstr:
+
+$errfile:
+
+$errlineB
+moxman_exception

@@ -1,0 +1,189 @@
+
+imagelib::resolveflash:
+.app/filemanager/include/php_image_magician.phpƒ ƒ("13"35"25"47"15"37"27"17"39"29"19"3"5"7"9"41"31"21"43"11"33"23"45*Ý
+13:
+.app/filemanager/include/php_image_magician.php– –(Q”
+‘
+:
+.app/filemanager/include/php_image_magician.php– –(P
+$flash"__id*CA
+?'flash fired, compulsory flash mode, return light not detected'*
+47*Ú
+35:
+.app/filemanager/include/php_image_magician.php· ·(N‘
+Ž
+:
+.app/filemanager/include/php_image_magician.php· ·(M
+$flash"__id*@>
+<'flash fired, compulsory flash mode, red-eye reduction mode'*
+47*Š
+47:
+.app/filemanager/include/php_image_magician.phpÍ Í("H
+:
+.app/filemanager/include/php_image_magician.phpÍ Í(
+
+
+$flash*Í
+25:
+.app/filemanager/include/php_image_magician.php¨ ¨(A„
+
+:
+.app/filemanager/include/php_image_magician.php¨ ¨(@
+$flash"__id*31
+/'flash fired, auto mode, return light detected'*
+47*Ù
+15:
+.app/filemanager/include/php_image_magician.php™ ™(M
+
+:
+.app/filemanager/include/php_image_magician.php™ ™(L
+$flash"__id*?=
+;'flash fired, compulsory flash mode, return light detected'*
+47*õ
+37:
+.app/filemanager/include/php_image_magician.phpº º(i¬
+©
+:
+.app/filemanager/include/php_image_magician.phpº º(h
+$flash"__id*[Y
+W'flash fired, compulsory flash mode, red-eye reduction mode, return light not detected'*
+47*¯
+27:
+.app/filemanager/include/php_image_magician.php« «(%g
+e
+:
+.app/filemanager/include/php_image_magician.php« «($
+$flash"__id*
+'no flash function'*
+47*Ç
+17:
+.app/filemanager/include/php_image_magician.phpœ œ(=
+}
+:
+.app/filemanager/include/php_image_magician.phpœ œ(<
+$flash"__id*/-
++'flash did not fire, compulsory flash mode'*
+47*ñ
+39:
+.app/filemanager/include/php_image_magician.php½ ½(e¨
+¥
+:
+.app/filemanager/include/php_image_magician.php½ ½(d
+$flash"__id*WU
+S'flash fired, compulsory flash mode, red-eye reduction mode, return light detected'*
+47*Á
+29:
+.app/filemanager/include/php_image_magician.php® ®(7y
+w
+:
+.app/filemanager/include/php_image_magician.php® ®(6
+$flash"__id*)'
+%'flash fired, red-eye reduction mode'*
+47*»
+19:
+.app/filemanager/include/php_image_magician.phpŸ Ÿ(1s
+q
+:
+.app/filemanager/include/php_image_magician.phpŸ Ÿ(0
+$flash"__id*#!
+'flash did not fire, auto mode'*
+47*¯
+3:
+.app/filemanager/include/php_image_magician.php‡ ‡(&h
+f
+:
+.app/filemanager/include/php_image_magician.php‡ ‡(%
+$flash"__id*
+'flash did not fire'*
+47*¨
+5:
+.app/filemanager/include/php_image_magician.phpŠ Š(a
+_
+:
+.app/filemanager/include/php_image_magician.phpŠ Š(
+$flash"__id*
+'flash fired'*
+47*½
+7:
+.app/filemanager/include/php_image_magician.php (4v
+t
+:
+.app/filemanager/include/php_image_magician.php (3
+$flash"__id*&$
+"'strobe return light not detected'*
+47*¹
+9:
+.app/filemanager/include/php_image_magician.php (0r
+p
+:
+.app/filemanager/include/php_image_magician.php (/
+$flash"__id*" 
+'strobe return light detected'*
+47*Î
+41:
+.app/filemanager/include/php_image_magician.phpÀ À(B…
+‚
+:
+.app/filemanager/include/php_image_magician.phpÀ À(A
+$flash"__id*42
+0'flash fired, auto mode, red-eye reduction mode'*
+47*Þ
+31:
+.app/filemanager/include/php_image_magician.php± ±(R•
+’
+:
+.app/filemanager/include/php_image_magician.php± ±(Q
+$flash"__id*DB
+@'flash fired, red-eye reduction mode, return light not detected'*
+47*´
+21:
+.app/filemanager/include/php_image_magician.php¢ ¢(*l
+j
+:
+.app/filemanager/include/php_image_magician.php¢ ¢()
+$flash"__id*
+'flash fired, auto mode'*
+47*é
+43:
+.app/filemanager/include/php_image_magician.phpÃ Ã(] 
+
+:
+.app/filemanager/include/php_image_magician.phpÃ Ã(\
+$flash"__id*OM
+K'flash fired, auto mode, return light not detected, red-eye reduction mode'*
+47*À
+11:
+.app/filemanager/include/php_image_magician.php“ “(6x
+v
+:
+.app/filemanager/include/php_image_magician.php“ “(5
+$flash"__id*(&
+$'flash fired, compulsory flash mode'*
+47*Ú
+33:
+.app/filemanager/include/php_image_magician.php´ ´(N‘
+Ž
+:
+.app/filemanager/include/php_image_magician.php´ ´(M
+$flash"__id*@>
+<'flash fired, red-eye reduction mode, return light detected'*
+47*Ñ
+23:
+.app/filemanager/include/php_image_magician.php¥ ¥(Eˆ
+…
+:
+.app/filemanager/include/php_image_magician.php¥ ¥(D
+$flash"__id*75
+3'flash fired, auto mode, return light not detected'*
+47*å
+45:
+.app/filemanager/include/php_image_magician.phpÆ Æ(Yœ
+™
+:
+.app/filemanager/include/php_image_magician.phpÆ Æ(X
+$flash"__id*KI
+G'flash fired, auto mode, return light detected, red-eye reduction mode'*
+47:
+$flashB
+
+imagelib

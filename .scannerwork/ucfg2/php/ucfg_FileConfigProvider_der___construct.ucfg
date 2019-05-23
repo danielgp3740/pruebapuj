@@ -1,0 +1,11 @@
+
+0moxman_vfs_local_fileconfigprovider::__construct^
+Tapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileConfigProvider.php ("2*”
+2
+FileConfigProvider.php"u
+^
+Tapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/Local/FileConfigProvider.php (
+implicit return:
+$filesystem:	
+$configB'%
+#moxman_vfs_local_fileconfigprovider

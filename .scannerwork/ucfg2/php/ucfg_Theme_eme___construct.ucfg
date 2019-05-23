@@ -1,0 +1,14 @@
+
+,phpexcel_reader_excel2007_theme::__construct5
++Classes/PHPExcel/Reader/Excel2007/Theme.phpH H("2*^
+2
+	Theme.php"L
+5
++Classes/PHPExcel/Reader/Excel2007/Theme.phpN N(
+implicit return:
+
+$themeName:
+$colourSchemeName:
+
+$colourMapB#!
+phpexcel_reader_excel2007_theme

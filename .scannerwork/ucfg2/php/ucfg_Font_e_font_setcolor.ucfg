@@ -1,0 +1,106 @@
+
+phpexcel_style_font::setcolor+
+Classes/PHPExcel/Style/Font.php˙ ˙("1*Ÿ
+2+
+Classes/PHPExcel/Style/Font.php˝. ˝(KVT
++
+Classes/PHPExcel/Style/Font.php˝. ˝(K
+%2*
+	
+$pValue2getsharedcomponentG
+E
++
+Classes/PHPExcel/Style/Font.php˝ ˝(U
+$color"__id*
+
+%2*
+5
+7*Ü
+3+
+Classes/PHPExcel/Style/Font.php˝N ˝(UL
+J
++
+Classes/PHPExcel/Style/Font.php˝ ˝(U
+$color"__id*
+	
+$pValue*
+5
+7*ì
+5+
+Classes/PHPExcel/Style/Font.phpÄ Ä(_XV
++
+Classes/PHPExcel/Style/Font.phpÄ Ä(+
+%3*
+phpexcel_style_font2getcolor=;
++
+Classes/PHPExcel/Style/Font.phpÄ; Ä(]
+%4"$ArrayJH
++
+Classes/PHPExcel/Style/Font.phpÄK Ä(\
+%5*
+
+
+$color2getargb]
+[
++
+Classes/PHPExcel/Style/Font.phpÄ; Ä(]
+%6"
+__arraySet*
+
+%4*
+
+'argb'*
+
+%5TR
++
+Classes/PHPExcel/Style/Font.phpÄ Ä(^
+%7*
+
+%3*
+
+%42getstylearrayL
+J
++
+Classes/PHPExcel/Style/Font.phpÄ Ä(^
+$styleArray"__id*
+
+%7^\
++
+Classes/PHPExcel/Style/Font.phpÅ Å(#
+%8*
+phpexcel_style_font2getactivesheet`^
++
+Classes/PHPExcel/Style/Font.phpÅ. Å(G
+%9*
+phpexcel_style_font2getselectedcellsPN
++
+Classes/PHPExcel/Style/Font.phpÅ Å(H
+%10*
+
+%8*
+
+%92getstyle`^
++
+Classes/PHPExcel/Style/Font.phpÅ Å(e
+%11*
+
+%10*
+
+$styleArray2applyfromarray*
+7*x
+7+
+Classes/PHPExcel/Style/Font.phpÖ Ö("F
++
+Classes/PHPExcel/Style/Font.phpÖ Ö(
+phpexcel_style_font*ç
+1+
+Classes/PHPExcel/Style/Font.php˝ ˝(VSQ
++
+Classes/PHPExcel/Style/Font.php˝ ˝(+
+%1*
+	
+$pValue2getissupervisor*
+2
+3:	
+$pValueB
+phpexcel_style_font

@@ -1,0 +1,61 @@
+
+$phpexcel_style_protection::setlocked1
+%Classes/PHPExcel/Style/Protection.php“ “("2"4*Ê
+21
+%Classes/PHPExcel/Style/Protection.php– –(KCA
+1
+%Classes/PHPExcel/Style/Protection.php–/ –(I
+%1"$Arrayj
+h
+1
+%Classes/PHPExcel/Style/Protection.php–/ –(I
+%2"
+__arraySet*
+
+%1*
+
+'locked'*
+	
+$pValueqo
+1
+%Classes/PHPExcel/Style/Protection.php– –(J
+%3*
+phpexcel_style_protection*
+
+%12getstylearrayR
+P
+1
+%Classes/PHPExcel/Style/Protection.php– –(J
+$styleArray"__id*
+
+%3jh
+1
+%Classes/PHPExcel/Style/Protection.php— —(#
+%4*
+phpexcel_style_protection2getactivesheetlj
+1
+%Classes/PHPExcel/Style/Protection.php—. —(G
+%5*
+phpexcel_style_protection2getselectedcellsUS
+1
+%Classes/PHPExcel/Style/Protection.php— —(H
+%6*
+
+%4*
+
+%52getstyledb
+1
+%Classes/PHPExcel/Style/Protection.php— —(e
+%7*
+
+%6*
+
+$styleArray2applyfromarray*
+4*Š
+41
+%Classes/PHPExcel/Style/Protection.php› ›("R
+1
+%Classes/PHPExcel/Style/Protection.php› ›(
+phpexcel_style_protection:	
+$pValueB
+phpexcel_style_protection

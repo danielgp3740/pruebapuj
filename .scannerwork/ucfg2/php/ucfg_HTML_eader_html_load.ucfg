@@ -1,0 +1,30 @@
+
+phpexcel_reader_html::load,
+ Classes/PHPExcel/Reader/HTML.php– –("1*ž
+1,
+ Classes/PHPExcel/Reader/HTML.php™ ™(&JH
+,
+ Classes/PHPExcel/Reader/HTML.php™ ™(%
+$objPHPExcel"phpexcel_
+]
+,
+ Classes/PHPExcel/Reader/HTML.php™ ™(%
+%1"phpexcel::__construct*
+
+$objPHPExcel…‚
+,
+ Classes/PHPExcel/Reader/HTML.phpœ œ(@
+%2*
+phpexcel_reader_html*
+
+
+$pFilename*
+
+$objPHPExcel2loadintoexisting"6
+,
+ Classes/PHPExcel/Reader/HTML.phpœ œ(A
+
+%2:
+
+$pFilenameB
+phpexcel_reader_html

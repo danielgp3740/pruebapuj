@@ -1,0 +1,70 @@
+
+phpexcel_style_font::setname+
+Classes/PHPExcel/Style/Font.phpî î("2"4"6*‰
+2+
+Classes/PHPExcel/Style/Font.phpñ ñ( O
+M
++
+Classes/PHPExcel/Style/Font.phpñ ñ(	
+$pValue"__id*
+	'Calibri'*
+4
+6*€
+4+
+Classes/PHPExcel/Style/Font.phpô ô(I=;
++
+Classes/PHPExcel/Style/Font.phpô/ ô(G
+%1"$Arrayb
+`
++
+Classes/PHPExcel/Style/Font.phpô/ ô(G
+%2"
+__arraySet*
+
+%1*
+
+'name'*
+	
+$pValueec
++
+Classes/PHPExcel/Style/Font.phpô ô(H
+%3*
+phpexcel_style_font*
+
+%12getstylearrayL
+J
++
+Classes/PHPExcel/Style/Font.phpô ô(H
+$styleArray"__id*
+
+%3^\
++
+Classes/PHPExcel/Style/Font.phpõ õ(#
+%4*
+phpexcel_style_font2getactivesheet`^
++
+Classes/PHPExcel/Style/Font.phpõ. õ(G
+%5*
+phpexcel_style_font2getselectedcellsOM
++
+Classes/PHPExcel/Style/Font.phpõ õ(H
+%6*
+
+%4*
+
+%52getstyle^\
++
+Classes/PHPExcel/Style/Font.phpõ õ(e
+%7*
+
+%6*
+
+$styleArray2applyfromarray*
+6*x
+6+
+Classes/PHPExcel/Style/Font.phpù ù("F
++
+Classes/PHPExcel/Style/Font.phpù ù(
+phpexcel_style_font:	
+$pValueB
+phpexcel_style_font

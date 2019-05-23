@@ -1,0 +1,98 @@
+
+,moxman_vfs_basicfilefilter::createfromconfigW
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÍ Í(("1*ä
+1W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÎ Î(-ÉÄ
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÎ Î(,	
+$filter"moxman_vfs_basicfilefilterò
+ï
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÎ Î(,
+%1"'moxman_vfs_basicfilefilter::__construct*
+	
+$filter†ù
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÌ& Ì(Z
+%2*
+	
+$config**(
+&'filesystem.include_directory_pattern'2getìê
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÌ Ì([
+%3*
+	
+$filter*
+
+%22setincludedirectorypattern†ù
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÓ& Ó(Z
+%4*
+	
+$config**(
+&'filesystem.exclude_directory_pattern'2getìê
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÓ Ó([
+%5*
+	
+$filter*
+
+%42setexcludedirectorypatternõò
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÔ! Ô(P
+%6*
+	
+$config*%#
+!'filesystem.include_file_pattern'2getéã
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÔ Ô(Q
+%7*
+	
+$filter*
+
+%62setincludefilepatternõò
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.php! (P
+%8*
+	
+$config*%#
+!'filesystem.exclude_file_pattern'2getéã
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.php (Q
+%9*
+	
+$filter*
+
+%82setexcludefilepatterníè
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÒ  Ò(E
+%10*
+	
+$config*
+'filesystem.extensions'2getèå
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÒ Ò(F
+%11*
+	
+$filter*
+
+%102setincludeextensionsûõ
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÚ Ú(L
+%12*
+	
+$config*'%
+#'filesystem.local.access_file_name'2getäá
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÚ Ú(M
+%13*
+	
+$filter*
+
+%122setexcludefiles"f
+W
+Kapp/tinymce/js/tinymce/plugins/moxiemanager/classes/Vfs/BasicFileFilter.phpÙ Ù(
+	
+$filter:	
+$configB
+moxman_vfs_basicfilefilter

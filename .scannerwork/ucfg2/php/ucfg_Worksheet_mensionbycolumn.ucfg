@@ -1,0 +1,36 @@
+
+.phpexcel_worksheet::getcolumndimensionbycolumn*
+Classes/PHPExcel/Worksheet.phpË
+ Ë
+(."1*Ì
+1*
+Classes/PHPExcel/Worksheet.phpÍ
+ Í
+(Y{
+y
+*
+Classes/PHPExcel/Worksheet.phpÍ
+) Í
+(W
+%1"$phpexcel_cell::stringfromcolumnindex*"
+phpexcel_cell*
+
+
+$pColumnhf
+*
+Classes/PHPExcel/Worksheet.phpÍ
+ Í
+(X
+%2*
+phpexcel_worksheet*
+
+%12getcolumndimension"4
+*
+Classes/PHPExcel/Worksheet.phpÍ
+ Í
+(Y
+
+%2:
+
+$pColumnB
+phpexcel_worksheet

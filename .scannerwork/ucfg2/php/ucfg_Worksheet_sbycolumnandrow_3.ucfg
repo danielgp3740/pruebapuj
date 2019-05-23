@@ -1,0 +1,65 @@
+
+.phpexcel_worksheet::protectcellsbycolumnandrow*
+Classes/PHPExcel/Worksheet.php£ £(."1*µ
+1+
+Classes/PHPExcel/Worksheet.php• •(è|
+z
+*
+Classes/PHPExcel/Worksheet.php• •(D
+%1"$phpexcel_cell::stringfromcolumnindex*"
+phpexcel_cell*
+
+	$pColumn1}
+{
++
+Classes/PHPExcel/Worksheet.php•V •(Ö
+%2"$phpexcel_cell::stringfromcolumnindex*"
+phpexcel_cell*
+
+	$pColumn2p
+n
++
+Classes/PHPExcel/Worksheet.php• •(é
+%3"__concat*
+
+%1*
+
+
+$pRow1*
+':'*
+
+%2*
+
+
+$pRow2K
+I
++
+Classes/PHPExcel/Worksheet.php• •(é
+
+$cellRange"__id*
+
+%3êç
+*
+Classes/PHPExcel/Worksheet.php¶ ¶(K
+%4*
+phpexcel_worksheet*
+
+
+$cellRange*
+
+
+$pPassword*
+
+$pAlreadyHashed2protectcells"4
+*
+Classes/PHPExcel/Worksheet.php¶ ¶(L
+
+%4:
+	$pColumn1:
+$pRow1:
+	$pColumn2:
+$pRow2:
+
+$pPassword:
+$pAlreadyHashedB
+phpexcel_worksheet

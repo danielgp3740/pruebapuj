@@ -1,0 +1,106 @@
+
+phpexcel_style_border::setcolor-
+!Classes/PHPExcel/Style/Border.phpü ü("1*ß
+2-
+!Classes/PHPExcel/Style/Border.phpÿ. ÿ(KXV
+-
+!Classes/PHPExcel/Style/Border.phpÿ. ÿ(K
+%2*
+	
+$pValue2getsharedcomponentI
+G
+-
+!Classes/PHPExcel/Style/Border.phpÿ ÿ(U
+$color"__id*
+
+%2*
+5
+7*Š
+3-
+!Classes/PHPExcel/Style/Border.phpÿN ÿ(UN
+L
+-
+!Classes/PHPExcel/Style/Border.phpÿ ÿ(U
+$color"__id*
+	
+$pValue*
+5
+7*¯
+5-
+!Classes/PHPExcel/Style/Border.php‚ ‚(_\Z
+-
+!Classes/PHPExcel/Style/Border.php‚ ‚(+
+%3*
+phpexcel_style_border2getcolor?=
+-
+!Classes/PHPExcel/Style/Border.php‚; ‚(]
+%4"$ArrayLJ
+-
+!Classes/PHPExcel/Style/Border.php‚K ‚(\
+%5*
+
+
+$color2getargb_
+]
+-
+!Classes/PHPExcel/Style/Border.php‚; ‚(]
+%6"
+__arraySet*
+
+%4*
+
+'argb'*
+
+%5VT
+-
+!Classes/PHPExcel/Style/Border.php‚ ‚(^
+%7*
+
+%3*
+
+%42getstylearrayN
+L
+-
+!Classes/PHPExcel/Style/Border.php‚ ‚(^
+$styleArray"__id*
+
+%7b`
+-
+!Classes/PHPExcel/Style/Border.phpƒ ƒ(#
+%8*
+phpexcel_style_border2getactivesheetdb
+-
+!Classes/PHPExcel/Style/Border.phpƒ. ƒ(G
+%9*
+phpexcel_style_border2getselectedcellsRP
+-
+!Classes/PHPExcel/Style/Border.phpƒ ƒ(H
+%10*
+
+%8*
+
+%92getstyleb`
+-
+!Classes/PHPExcel/Style/Border.phpƒ ƒ(e
+%11*
+
+%10*
+
+$styleArray2applyfromarray*
+7*~
+7-
+!Classes/PHPExcel/Style/Border.php‡ ‡("J
+-
+!Classes/PHPExcel/Style/Border.php‡ ‡(
+phpexcel_style_border*‘
+1-
+!Classes/PHPExcel/Style/Border.phpÿ ÿ(VUS
+-
+!Classes/PHPExcel/Style/Border.phpÿ ÿ(+
+%1*
+	
+$pValue2getissupervisor*
+2
+3:	
+$pValueB
+phpexcel_style_border

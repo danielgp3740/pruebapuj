@@ -1,0 +1,38 @@
+
+*phpexcel_worksheet::setbreakbycolumnandrow*
+Classes/PHPExcel/Worksheet.phpû û(*"1*¢
+1*
+Classes/PHPExcel/Worksheet.phpý ý(`{
+y
+*
+Classes/PHPExcel/Worksheet.phpý ý(M
+%1"$phpexcel_cell::stringfromcolumnindex*"
+phpexcel_cell*
+
+
+$pColumnQ
+O
+*
+Classes/PHPExcel/Worksheet.phpý ý(U
+%2"__concat*
+
+%1*	
+
+$pRowki
+*
+Classes/PHPExcel/Worksheet.phpý ý(_
+%3*
+phpexcel_worksheet*
+
+%2*
+	
+$pBreak2setbreak"4
+*
+Classes/PHPExcel/Worksheet.phpý ý(`
+
+%3:
+
+$pColumn:
+$pRow:	
+$pBreakB
+phpexcel_worksheet

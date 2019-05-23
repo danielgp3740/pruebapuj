@@ -1,0 +1,46 @@
+
+'moxman_core_basecommand::firecustominfoR
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php\ \(""1*ï
+1R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php] ](<€~
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php] ](;
+$args"moxman_core_custominfoeventargs¬
+©
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php] ](;
+%1",moxman_core_custominfoeventargs::__construct*	
+
+$args*	
+
+$type*	
+
+$fileƒ
+€
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php_	 _(#
+%2"moxman::getpluginmanager*
+"
+moxmanus
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php_	 _(0
+%3*
+
+%2*
+
+"core"2getˆ…
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php_	 _(K
+%4*
+
+%3*
+"CustomInfo"*	
+
+$args2fire"\
+R
+Happ/tinymce/js/tinymce/plugins/moxiemanager/classes/Core/BaseCommand.php_ _(L
+
+%4:
+$type:
+$fileB
+moxman_core_basecommand

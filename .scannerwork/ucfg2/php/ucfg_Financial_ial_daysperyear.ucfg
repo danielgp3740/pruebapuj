@@ -1,0 +1,67 @@
+
++phpexcel_calculation_financial::daysperyear4
+*Classes/PHPExcel/Calculation/Financial.phpz z('"13"5"7"9*‹
+136
+*Classes/PHPExcel/Calculation/Financial.php‰ ‰(=Š
+‡
+6
+*Classes/PHPExcel/Calculation/Financial.php‰ ‰(<
+%2"#phpexcel_calculation_functions::nan*"" 
+phpexcel_calculation_functions"@
+6
+*Classes/PHPExcel/Calculation/Financial.php‰ ‰(=
+
+%2*ˆ
+146
+*Classes/PHPExcel/Calculation/Financial.php‹ ‹("J
+6
+*Classes/PHPExcel/Calculation/Financial.php‹ ‹(
+
+$daysPerYear*š
+56
+*Classes/PHPExcel/Calculation/Financial.php€ €(#W
+U
+6
+*Classes/PHPExcel/Calculation/Financial.php€ €("
+$daysPerYear"__id*2è*
+14*š
+76
+*Classes/PHPExcel/Calculation/Financial.phpƒ ƒ(#W
+U
+6
+*Classes/PHPExcel/Calculation/Financial.phpƒ ƒ("
+$daysPerYear"__id*2í*
+14*â
+96
+*Classes/PHPExcel/Calculation/Financial.php† †(^š
+—
+6
+*Classes/PHPExcel/Calculation/Financial.php†  †(P
+%1")phpexcel_calculation_datetime::isleapyear*!"
+phpexcel_calculation_datetime*	
+
+$year*
+10
+11*›
+106
+*Classes/PHPExcel/Calculation/Financial.php†T †(WW
+U
+6
+*Classes/PHPExcel/Calculation/Financial.php† †(]
+$daysPerYear"__id*2î*
+12*›
+116
+*Classes/PHPExcel/Calculation/Financial.php†Z †(]W
+U
+6
+*Classes/PHPExcel/Calculation/Financial.php† †(]
+$daysPerYear"__id*2í*
+12*m
+12
+__unknown_file ("M
+6
+*Classes/PHPExcel/Calculation/Financial.phpŒ Œ(
+implicit return:
+$year:
+$basisB" 
+phpexcel_calculation_financial

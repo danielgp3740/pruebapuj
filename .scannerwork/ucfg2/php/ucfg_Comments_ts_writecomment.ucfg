@@ -1,0 +1,105 @@
+
+0phpexcel_writer_excel2007_comments::writecomment8
+.Classes/PHPExcel/Writer/Excel2007/Comments.php_ _(!"1*d
+2
+Comments.php"O
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phpl l(
+implicit return*å
+
+18
+.Classes/PHPExcel/Writer/Excel2007/Comments.phpb b(,om
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phpb b(+
+%1*
+
+
+$objWriter*
+	'comment'2startelementƒ€
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phpc c(:
+%2*
+
+
+$objWriter*	
+'ref'*
+
+$pCellReference2writeattribute\Z
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phpd9 d(O
+%3*
+
+	$pComment2	getauthore
+c
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phpd/ d(P
+%4"
+__arrayGet*
+
+	$pAuthors*
+
+%3zx
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phpd d(Q
+%5*
+
+
+$objWriter*
+
+'authorId'*
+
+%42writeattributelj
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phpg g((
+%6*
+
+
+$objWriter*
+
+'text'2startelement{y
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phph h( 
+%7*&$
+"phpexcel_writer_excel2007_comments2getparentwriterlj
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phph h(>
+%8*
+
+%7*
+'stringtable'2getwriterpartZX
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phphZ h(n
+%9*
+
+	$pComment2gettextrp
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phph h(o
+%10*
+
+%8*
+
+
+$objWriter*
+
+%92writerichtext_]
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phpi i( 
+%11*
+
+
+$objWriter2
+endelement_]
+8
+.Classes/PHPExcel/Writer/Excel2007/Comments.phpk k( 
+%12*
+
+
+$objWriter2
+endelement*
+2:
+
+$objWriter:
+$pCellReference:
+	$pComment:
+	$pAuthorsB&$
+"phpexcel_writer_excel2007_comments

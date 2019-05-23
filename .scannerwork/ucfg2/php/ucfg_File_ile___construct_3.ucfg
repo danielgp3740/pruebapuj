@@ -1,0 +1,13 @@
+
+moxman_ftp_file::__constructJ
+@app/tinymce/js/tinymce/plugins/moxiemanager/plugins/Ftp/File.php ("2*r
+2
+
+File.php"a
+J
+@app/tinymce/js/tinymce/plugins/moxiemanager/plugins/Ftp/File.php (
+implicit return:
+$fileSystem:
+$path:
+$statB
+moxman_ftp_file
