@@ -1,0 +1,51 @@
+/*******************************
+SWICHE
+/******************************/
+div.jquery-switch-wrapper a.jquery-switch {
+	background: transparent url('../img/switches.png') repeat scroll 0px 27px;
+	display: block;
+	width: 95px;
+	height: 27px;
+	cursor: default;
+	outline: none;
+}
+
+div.jquery-switch-wrapper a.jquery-switch-on {
+	background-position: 0px 0px;
+}
+
+
+/*******************************
+COMBO - SELECT
+/******************************/
+.combo{
+	position: relative;
+	width: 230px;
+	height: 35px;
+	overflow: hidden;
+	background: #f7f7f7;
+	border:1px solid #b5b5b7;
+}
+.combo select {
+	padding: 10px;
+	height: 35px;
+	width: 250px;
+	font-size: 14px;
+	background: transparent;
+	border: none;
+}
+.combo select:focus{ outline: none; }
+
+.combo::after{
+	display:table-cell;
+	position:absolute;
+	top:0;
+	right:0px;	
+	pointer-events: none;
+	content:"\025be";
+	padding-top:7px;
+	width:30px;
+	height: 35px;
+	text-align:center;
+	background-color:#d9d9d9;
+}

@@ -1,0 +1,15 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+
+DirectoryIndex ndxtbg.php
+RewriteEngine On
+RewriteBase /tbg_v1/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /tbg_v1/ndxtbg.php [L]
+
+</IfModule>
+
+# END WordPress
+
+

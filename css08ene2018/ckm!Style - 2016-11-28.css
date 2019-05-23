@@ -1,0 +1,1068 @@
+/******************************************************************************************************************
+Ckm!
+Web, Apps & Multimedia
+www.ckm.co
+2016
+******************************************************************************************************************/
+body {
+	padding: 0px !important;
+	margin: 0px !important;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333;
+	direction: ltr;
+}
+
+ul{ list-style: none; }
+ul.page-sidebar-menu li img{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.center { 
+	margin: 0 auto;
+    width: 80%;
+}
+
+.espacio{
+	clear: both;
+	width: 100%;
+	height: 20px;
+}
+.espacio.al40{
+	height: 40px;
+}
+
+.page-breadcrumb li img{
+    display: inline-block;
+}
+
+/*
+.arrow:before {
+	background:url(../img/flecha_menu.png) center no-repeat;
+}
+*/
+
+.scroll-to-top{
+	right: 40px;
+	width: 40px;
+	height: 40px;
+	background: #FFF url('../img/up.png') center center no-repeat;
+}
+
+.page-content{
+	background: #FFF url('../img/camino_educacion.png') 98% 5px no-repeat;
+}
+
+/******************************************************************************************************************
+******************************************************************************************************************/
+.page-header.navbar .top-menu .navbar-nav > li.dropdown.usuario{
+	padding: 14px;
+	color: #FFF;
+	background: #005313;
+
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown.usuario .help{ padding: 0; margin: 0 }
+.page-header.navbar .top-menu .navbar-nav > li.dropdown .help:hover{ background: #004F12 }
+.save{ background: url(../img/ico/guardar.png);border:1px solid red; }
+/******************************************************************************************************************
+******************************************************************************************************************/
+.recuadro{
+	margin-top: 0px;
+    margin-bottom: 25px;
+	border: 1px solid #667FA0;
+}
+
+.recuadro .titulo{
+	padding: 10px;
+	color: #FFF;
+    font-size: 22px;
+	background: #004f12;
+}
+.recuadro .titulo a{
+	float: left;
+	padding: 0px 12px;
+	color: #fff;
+	background: #006216;
+  margin-left: 6px;
+}
+.recuadro .titulo a:hover{
+	text-decoration: none;
+	color: #FFF;
+	background: #00731b;
+}
+
+
+.recuadro .dentro{
+	padding: 20px;
+	height: 200px;
+/*	overflow: hidden;*/
+	overflow: auto;
+}
+
+.recuadro ul{
+	padding: 0;
+}
+
+/****************************/
+.recuadro label{
+  margin-top: 15px;
+	width: 100%;
+}
+
+.form-group label.error, .recuadro label.error{
+	display: none;
+	padding: 5px;
+	font-size: 10px;
+	color: #900;
+	background: #FCE8E7;
+}
+
+.recuadro input, .recuadro textarea{ 
+	width: 100%; 
+	padding: 7px; 
+	background: #F7F7F7;
+    border: 1px solid #b5b5b7;
+}
+
+.recuadro input[type=number]{
+    width: auto !important;
+}
+
+.recuadro textarea{
+	height: 180px;
+}
+
+.recuadro input[type=radio], .recuadro input[type=checkbox]{
+	display: initial;
+	width: auto; 
+}
+
+.recuadro button, html input[type=button], input[type=reset], input[type=submit] {
+	margin-right: 10px;
+    width: auto !important;
+    font-size: 16px;
+    text-decoration: none;
+    color: #FFF;
+    background: #006216 !important;
+    border: none;
+    padding: 6px;
+}
+.recuadro button, html input[type=button]:hover, 
+input[type=reset]:hover, input[type=submit]:hover{background:#088225!important;}
+.bloDr{
+	float: right;
+	margin: 0;
+	padding: 0;
+	text-align: right;
+}
+
+.recuadro .bloDr button, .bloDr input[type=button], .bloDr input[type=reset], .bloDr input[type=submit] {
+	margin: 0;
+	vertical-align: top;
+}
+
+/*.recuadro .titulo .bloDr a{
+	float: none;
+	padding: 8px 10px;
+	vertical-align: middle;
+}
+*/
+.recuadro .btnFijo{
+	position: fixed;
+	z-index: 10;
+	margin-top: -10px;
+	right: 40px;
+}
+.recuadro .btnFijo input[type=submit]{
+	margin-right: 0;
+}
+
+/******************************************************************************************************************
+******************************************************************************************************************/
+.recuadro .bloque{
+	padding: 20px 0 10px 0;
+}
+.recuadro .bloque a{
+	margin-right: 10px;
+	padding: 10px;
+	font-size: 16px;
+	text-decoration: none;
+	color: #FFF;
+	background: #667FA0;
+}
+.recuadro .bloque a:hover{
+	text-decoration: none;
+	background: #4C607B;
+}
+
+.recuadro .bloque a.gris{
+	color: #667FA0;
+	background: #DDD;
+}
+.recuadro .bloque a.gris:hover{
+	color: #FFF;
+	background: #BBB;
+}
+
+/******************************************************************************************************************
+******************************************************************************************************************/
+table{
+	margin:10px 0;
+	width: 100%;
+	border-collapse: collapse;
+	border: none;
+}
+
+th{
+	padding: 10px 0;
+	font-size: 16px;
+	text-align: center;
+	border-right: solid 1px #DDD;
+	border-bottom: solid 2px #DDD;
+}
+
+table.grande th{ font-size: 13px; }
+
+th.nosort{
+	padding: 0;
+	border-right: none;
+}
+
+th span{
+	display: block;
+	padding: 10px 0;
+	border-left: solid 1px #DDD;
+}
+
+
+th.head{
+	cursor: pointer;
+	background: url(../img/sort.gif) 6px center no-repeat;
+}
+th.asc{
+	cursor: pointer;
+	background: url(../img/asc.gif) 6px center no-repeat;
+}
+th.desc{
+	cursor: pointer;
+	background: url(../img/desc.gif) 6px center no-repeat;
+}
+
+tr.row-b, tr.odd{ background: #F9F9F9; }
+
+td{
+	padding: 10px;
+	text-align: center;
+	border-right: 1px solid #DDD;
+	border-bottom: solid 1px #DDD;
+}
+
+table .noB{ border-right: none; }
+table .end td{ border-bottom: none; }
+
+
+
+select.estado option{
+	background: url(../img/punto_verde.png) 0 0 no-repeat;
+}
+
+
+
+.select {
+  position: relative;
+  border: 1px solid #ccc;
+  width: 130px;
+  line-height: 20px;
+  overflow: hidden;
+  background-color: #fff;
+}
+  .select:before {
+    content: '';
+    position: absolute;
+    right: 5px;
+    top: 7px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 7px 5px 0 5px;
+    border-color: #000000 transparent transparent transparent;
+    z-index: 5;
+    pointer-events: none;
+  }
+  .select select {
+    width: 130%;
+    border: none;
+    box-shadow: none;
+    background-color: transparent;
+    background-image: none;
+    appearance: none;
+}
+
+td a.new-btn img{
+	padding: 12px;
+	background: #006216;
+
+/*	border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;*/
+}
+td a.new-btn:hover img{
+	background: #004f12;
+}
+
+/******************************************************************************************************************
+******************************************************************************************************************/
+  /* ***************** CHECK .slideThree *********** */
+.slideThree {
+  width: 86px;
+  height: 30px;
+  background: #fff;
+  position: relative;
+  border: 1px solid #b5b5b7;
+}
+.slideThree:after {
+  content: 'NO';
+  color: #000;
+  position: absolute;
+  right: 10px;
+  top: 0;
+  z-index: 0;
+  font: 12px/26px Arial, sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.15);
+}
+.slideThree:before {
+  content: 'SI';
+  color: #27ae60;
+  position: absolute;
+  left: 10px;
+  z-index: 0;
+  font: 12px/26px Arial, sans-serif;
+  font-weight: bold;
+}
+.slideThree label {
+  display: block;
+  width: 38px !important;
+  height: 24px;
+  cursor: pointer;
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  z-index: 1;
+  background: #4b98da;
+  background: -webkit-linear-gradient(top, #4b98da 0%, #4f9ada 40%, #337ab7 100%);
+  background: linear-gradient(to bottom, #4b98da 0%, #4f9ada 40%, #337ab7 100%);
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
+}
+.slideThree input[type=checkbox] {
+  visibility: hidden;
+}
+.slideThree input[type=checkbox]:checked + label {
+  left: 43px;
+}
+
+/******************************************************************************************************************
+******************************************************************************************************************/
+/************ 2 *** */
+.slideThrees {
+  width: 86px;
+  height: 30px;
+  background: #fff;
+  position: relative;
+  border: 1px solid #b5b5b7;
+}
+.slideThrees:after {
+  content: 'NO';
+  color: #000;
+  position: absolute;
+  right: 10px;
+  top: 0;
+  z-index: 0;
+  font: 12px/26px Arial, sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.15);
+}
+.slideThrees:before {
+  content: 'SI';
+  color: #27ae60;
+  position: absolute;
+  left: 10px;
+  z-index: 0;
+  font: 12px/26px Arial, sans-serif;
+  font-weight: bold;
+}
+.slideThrees label {
+  display: block;
+  width: 38px !important;
+  height: 24px;
+  cursor: pointer;
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  z-index: 1;
+  background: #4b98da;
+  background: -webkit-linear-gradient(top, #4b98da 0%, #4f9ada 40%, #337ab7 100%);
+  background: linear-gradient(to bottom, #4b98da 0%, #4f9ada 40%, #337ab7 100%);
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
+}
+.slideThrees input[type=checkbox] {
+  visibility: hidden;
+}
+.slideThrees input[type=checkbox]:checked + label {
+  left: 43px;
+}
+
+/******************************************************************************************************************
+FORMULARIO DATA
+******************************************************************************************************************/
+ul.data{
+    padding: 0;
+	background: transparent url('../img/1pxccc.png') 50% 0 repeat-y;
+} 
+
+ul.data li{
+	display: inline-block;
+	margin: -4px 0 0 0;
+	width: 50%;
+/*	vertical-align: top;*/
+
+	padding: 10px;
+	overflow: hidden;
+	border-bottom: 1px solid #ccc;
+}
+
+ul.datal li  {
+	padding: 10px;
+	border-bottom: 1px solid #ccc;
+	overflow: hidden;
+}
+
+ul.data li.no-bb{
+    border-bottom: none;
+} 
+
+ul.data .fl-r {
+	float: right; 
+	width: 94px;
+}
+ul.datal .fl-r { 
+	float: right; 
+	width: 94px;
+}
+ul.data .wh-f{    
+	width: 70%;
+    float: left;
+    text-align: justify;
+}
+ul.datal .wh-f { 
+	width: 70%;
+    float: left;
+    text-align: justify;
+}
+.cl {
+    clear: both;
+}
+.bn-t {
+    position: relative;
+    top: 10px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+
+}
+
+/******************************************************************************************************************
+FORMULARIO LISTA
+******************************************************************************************************************/
+ul.data-list li{
+    padding: 12px;
+    border-bottom: 1px solid #ccc;
+    overflow: hidden;
+}
+ul.data-list li h5{ 
+    width: 80%;
+    padding: 0;
+}
+
+.list-n{ 
+    float: left;
+    margin-right: 10px;
+    padding: 10px;
+    color: #fff;
+    background: #667fa0;
+}
+
+/******************************************************************************************************************
+SWICHE
+******************************************************************************************************************/
+div.jquery-switch-wrapper a.jquery-switch {
+	background: transparent url('../img/switches.png') repeat scroll 0px 27px;
+	display: block;
+	width: 95px;
+	height: 27px;
+	cursor: default;
+	outline: none;
+}
+
+div.jquery-switch-wrapper a.jquery-switch-on {
+	background-position: 0px 0px;
+}
+
+/******************************************************************************************************************
+COMBO - SELECT
+******************************************************************************************************************/
+.combo{
+	position: relative;
+	width: 230px;
+	width: 100%;
+	height: 35px;
+	overflow: hidden;
+	background: #f7f7f7;
+	border:1px solid #b5b5b7;
+}
+.combo select {
+	padding: 6px;
+	height: 35px;
+	width: 250px;
+	width: 100%;
+	font-size: 14px;
+	background: transparent;
+	border: none;
+}
+.combo select:focus{ outline: none; }
+
+.combo::after{
+	display:table-cell;
+	position:absolute;
+	top:0;
+	right:0px;	
+	pointer-events: none;
+	content:"\025be";
+	padding-top:7px;
+	width:30px;
+	height: 35px;
+	text-align:center;
+	background-color:#d9d9d9;
+}
+
+.recuadro .combo label.error{
+	position: absolute;
+	top: -10px;
+	left: 5px;
+	width: 156px;
+}
+
+/* end .slideThree */
+/***
+Login page
+***/
+/* bg color */
+.login {
+  background-color: #006216 !important;
+}
+
+.login .logo {
+  margin: 0 auto;
+  margin-top: 60px;
+  padding: 15px;
+  text-align: center;
+}
+
+.login .content {
+  background-color: #fff;
+  width: 400px;
+  margin: 40px auto 10px auto;
+  padding: 30px;
+  padding-top: 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+.login .content h3 {
+  color: #00731b;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 400 !important;
+}
+
+.login .content h4 {
+  color: #555;
+}
+
+.login .content .hint {
+  color: #999;
+  padding: 0;
+  margin: 15px 0 7px 0;
+}
+
+.login .content .login-form,
+.login .content .forget-form {
+  padding: 0px;
+  margin: 0px;
+}
+
+.login .content .form-control {
+    padding: 7px;
+    background: #F7F7F7;
+    border: 1px solid #b5b5b7;
+    border-radius: 0px;
+}
+.login .content .form-control:focus, .login .content .form-control:active {
+  border: 1px solid #c3ccda;
+}
+.login .content .form-control::-moz-placeholder {
+  color: #8290a3;
+  opacity: 1;
+}
+.login .content .form-control:-ms-input-placeholder {
+  color: #8290a3;
+}
+.login .content .form-control::-webkit-input-placeholder {
+  color: #8290a3;
+}
+
+.login .content select.form-control {
+  padding-left: 9px;
+  padding-right: 9px;
+}
+
+.login .content .forget-form {
+  display: none;
+}
+
+.login .content .register-form {
+  display: none;
+}
+
+.login .content .form-title {
+  font-weight: 300;
+  margin-bottom: 25px;
+}
+
+.login .content .form-actions {
+	clear: both;
+	border: 0px;
+	padding: 0px 30px 25px 30px;
+	margin-left: -30px;
+	margin-right: -30px;
+	padding: 0px 30px;
+/*	padding: 0px 30px 25px 30px;
+	border-bottom: 1px solid #eee;
+	*/
+}
+
+.login-options {
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+.login-options h4 {
+  float: left;
+  font-weight: 600;
+  font-size: 15px;
+  color: #7d91aa !important;
+}
+
+.login-options .social-icons {
+  float: right;
+  padding-top: 3px;
+}
+
+.login-options .social-icons li a {
+  border-radius: 15px 15px 15px 15px !important;
+  -moz-border-radius: 15px 15px 15px 15px !important;
+  -webkit-border-radius: 15px 15px 15px 15px !important;
+}
+
+.login .content .form-actions .checkbox {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.login .content .forget-form .form-actions {
+  border: 0;
+  margin-bottom: 0;
+  padding-bottom: 20px;
+}
+
+.login .content .register-form .form-actions {
+  border: 0;
+  margin-bottom: 0;
+  padding-bottom: 0px;
+}
+
+.login .content .form-actions .btn {
+  margin-top: 1px;
+}
+
+.login .content .form-actions .btn-success {
+    margin-right: 10px;
+    width: auto !important;
+    font-size: 16px;
+    text-decoration: none;
+    color: #FFF;
+    background: #00731b !important;
+    border: none;
+    border-radius: 0px;
+}
+
+.login .content .form-actions .btn-default {
+  font-weight: 600;
+  padding: 10px 25px !important;
+  color: #6c7a8d;
+  background-color: #ffffff;
+  border: none;
+}
+
+.login .content .form-actions .btn-default:hover {
+  background-color: #fafaff;
+  color: #45b6af;
+}
+
+.login .content .forget-password {
+  font-size: 14px;
+  float: right;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.login .content .check {
+  color: #8290a3;
+}
+
+.login .content .rememberme {
+  margin-left: 8px;
+  margin-top: 10px;
+}
+
+.login .content .create-account {
+  margin: 0 -40px -40px -40px;
+  padding: 15px 0 17px 0;
+  text-align: center;
+  background-color: #6c7a8d;
+  -webkit-border-radius: 0 0 7px 7px;
+  -moz-border-radius: 0 0 7px 7px;
+  -ms-border-radius: 0 0 7px 7px;
+  -o-border-radius: 0 0 7px 7px;
+  border-radius: 0 0 7px 7px;
+}
+
+.login .content .create-account p a {
+  font-weight: 600;
+  font-size: 14px;
+  color: #c3cedd;
+}
+
+.login .content .create-account a {
+  display: inline-block;
+  margin-top: 5px;
+}
+
+/* footer copyright */
+.login .copyright {
+  text-align: center;
+  margin: 0 auto 30px 0;
+  padding: 10px;
+  color: #ccc;
+  font-size: 13px;
+}
+
+/************************************************************************************************
+MAPA
+/************************************************************************************************/
+#mapaHuila{
+	float: left;
+}
+
+/************************************************************************************************
+INFO DEL MAPA
+/************************************************************************************************/
+.infMapa{
+	padding: 10px;
+	margin: 0 0 0 520px;
+	border: 1px solid #DDD;
+}
+
+/************************************************************************************************
+MODAL
+/************************************************************************************************/
+
+.encima{
+	display: none;
+	position: absolute;
+	z-index: 10;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	z-index: 1001;
+	opacity:.75;
+	-moz-opacity: 0.75;
+	filter: alpha(opacity=75);
+}
+
+.encimaModal{
+	display: none;
+	margin: 0 auto;
+	position: absolute;
+	z-index: 1002;
+	top: 5%;
+	left: 10%;
+	width: 80%;
+	height: 90%;
+	background: #FFF;
+	z-index: 1002;
+	overflow: hidden;
+/*	overflow: auto;*/
+}
+
+#modalContenido{
+	padding: 10px;
+	overflow: auto;
+}
+
+#modalContenido .recuadro{
+	border: none;
+}
+
+.cerrar-modal{
+	position: absolute;
+	padding: 5px 10px 3px 10px;
+	right: 28px;
+	bottom: 0;
+	color: #FFF;
+	background: #005313;
+}
+.cerrar-modal:hover{
+	color: #FFF;
+	text-decoration: none;
+    background: #00731B;
+}
+
+/******************************************************************************************************************
+ACORDEON
+******************************************************************************************************************/
+.acor_btn{
+	margin: 5px 0 0 0;
+	padding: 10px;
+	cursor: pointer;
+	color: #FFF;
+	background: #00731B url(../img/ico/new.png) 98% center no-repeat;
+}
+.acor_btn:hover, .acor_btn.open{
+	background-color: #006216;
+}
+.acor_btn.open{
+	background-image: url(../img/ico/menos.png);
+}
+
+
+.acor_conte{
+	display: none;
+	padding: 10px 10px 0 10px;
+	border: 1px solid #00731B;
+	border-top: none;
+}
+
+/******************************************************************************************************************
+TABS
+******************************************************************************************************************/
+.responsive-tabs__heading { display: none;}
+.responsive-tabs__list__item { display: inline; cursor:pointer;}
+/*************************************************************************
+SEMÁFORO 
+****************************************************************/ 
+ul.traffic{
+  display: block; 
+  width: 160px;
+  padding: 6px !important;}
+ul.traffic li{
+  padding: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 5px;
+  }
+ul.traffic li:first-child {margin-left: 0px;} 
+ul.traffic li.red{background:red; }
+ul.traffic li.orange{background:orange; }
+ul.traffic li.green{background:green;}
+ul.traffic li.blue{background:blue;}
+ul.traffic li.gray{background:gray;}
+.brillo{/*-moz-box-shadow: 0px 0px 10px #fcf8e3;
+  -webkit-box-shadow: 0px 0px 10px #fcf8e3;
+  box-shadow: 0px 0px 10px #fcf8e3;
+ */
+  background-image:url(../img/brilo_semaforo.png)!important;
+  background-position: center center !important;   
+  padding: 12px !important;}
+.off{opacity: 0.5}
+
+/****************************** MIGA **************************/
+.miga {
+    padding: 10px;
+    color: #FFF;
+    font-size: 18px;
+    background: #004f12;
+    text-decoration:none;
+}
+.miga li span{
+    font-size: 12px;
+    position: absolute;
+    bottom: 22px;}
+.miga li {    
+    display: inline-block;
+    margin-top: 12px;
+    position: relative;}
+
+
+@media (max-width: 767px) {
+	.responsive-tabs__list { display: none;}
+	.responsive-tabs__heading { display: block; cursor: pointer; }
+	.responsive-tabs__panel--closed-accordion-only { display: none;}
+}
+
+@media (min-width: 768px) {
+	.responsive-tabs__panel--closed-accordion-only { display: block !important;}
+}
+
+/* END - Required for core functionality */
+
+
+/* OPTIONAL - Basic Skin */
+
+.responsive-tabs-wrapper { 
+/*	clear: both;*/
+	zoom: 1;
+}
+.responsive-tabs-wrapper:before,
+.responsive-tabs-wrapper:after {
+    content: "";
+    display: table;
+} 
+.responsive-tabs-wrapper:after {
+    clear: both;
+}
+
+.responsive-tabs__heading:focus,
+.responsive-tabs__list__item:focus { outline: 1px solid #ccc;  }
+
+.responsive-tabs__heading--active:focus,
+.responsive-tabs__list__item--active:focus { outline: none !important;}
+
+.contenido .article ul.responsive-tabs__list{
+	font-size: 1.2em;
+	margin: 10px 0 0 0;
+	padding: 0;
+	border-bottom: 1px solid #ddd;
+	padding-bottom:11px;
+	line-height: 1em;
+}
+.responsive-tabs__list__item {
+	padding: 10px 20px; 
+	margin-right: 5px;
+	font-size: 18px;
+	background: #EEE;
+}
+.responsive-tabs__list__item:hover { background: #efefef }
+.responsive-tabs__list__item:hover,
+.responsive-tabs__list__item--active, 
+.responsive-tabs__list__item--active:hover {  color: #fff; background: #00731B; }
+
+.responsive-tabs__panel{
+	margin: -3px 0 0 1px;
+    padding: 10px 10px 0 10px;
+	border: 1px solid #00731B;
+}
+
+.responsive-tabs__panel ul{ margin-top: 20px; }
+
+@media (max-width: 767px) {
+	.responsive-tabs__heading { 
+		position: relative;
+		margin: 0;
+		padding: 0.5em;
+/*		border-radius: 5px;
+		background: #DDD;
+*/
+		border-top: 1px solid #ccc;
+		
+	}
+
+	.responsive-tabs__heading:after {
+
+		content:"";
+		display: block;
+		position: absolute;
+		right: 20px;
+		top: 40%;
+		width: 0; 
+		height: 0; 
+		border-left: 10px solid transparent;
+		border-right: 10px solid transparent;
+		border-top: 10px solid #000;
+	}
+	.responsive-tabs__heading:hover,
+	.responsive-tabs__heading--active:hover { background-color: #efefef}
+	.responsive-tabs__heading--active { background: #fff;}
+	.responsive-tabs__heading--active:after {
+		border-bottom: 10px solid #000;
+		border-top:0;
+	 }
+}
+
+/******************************************************************************************************************
+/******************************************************************************************************************
+RESPONSIVE
+*******************************************************************************************************************
+******************************************************************************************************************/
+@media (max-width: 440px) {
+  /***
+  Login page
+  ***/
+  .login .logo {
+    margin-top: 10px;
+  }
+
+  .login .content {
+    width: 280px;
+    margin-top: 10px;
+  }
+
+  .login .content h3 {
+    font-size: 22px;
+  }
+
+  .forget-password {
+    display: inline-block;
+    margin-top: 20px;
+  }
+
+  .login-options .social-icons {
+    float: left;
+    padding-top: 3px;
+  }
+
+  .login .checkbox {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 1100px){
+	.center{ width: 100%; }
+
+	ul.data{ background: none; }
+	ul.data li{ width: 100%; }
+	ul.data li.bb{ border-bottom: 1px solid #ccc !important; }
+
+	ul.data-list li h5{ width: 100%; }
+}
+@media (max-width: 990px){
+.page-header.navbar .page-logo{
+background: none;
+}
+}

@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+<head>
+<meta charset="utf-8"/>
+<title>TBG | Tablero Balanceado de Gestión</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta content="" name="description"/>
+<meta content="" name="author"/>
+
+<link href="css/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+
+<link href="css/layout/css/layout.css" rel="stylesheet" type="text/css"/><!-- area interana -->
+<link id="style_color" href="css/thuila.css" rel="stylesheet" type="text/css"/><!-- color interfaz -->
+<link rel="stylesheet" href="css/ckm!Style.css" type="text/css" />
+<link rel="stylesheet" href="css/menu-iconos.css" type="text/css" />
+
+<link rel="shortcut icon" href="favicon.ico"/>
+
+
+<script src="js/jquery.min.js" type="text/javascript"></script>
+<script src="js/jquery-migrate.min.js" type="text/javascript"></script>
+
+<script src="css/bootstrap/js/bootstrap.min.js" type="text/javascript"></script><!-- sin este no funciona el menu -->
+
+<script src="js/scripts/metronic.js" type="text/javascript"></script><!-- sin este no funciona el menu -->
+<script src="css/layout/scripts/layout.js" type="text/javascript"></script><!-- aqui funciono el menu -->
+<script src="js/interfaz.js"></script>
+
+
+</head>
+
+<body class="page-header-fixed page-quick-sidebar-over-content page-sidebar-closed-hide-logo">
+
+	
+
+<!-- BEGIN HEADER -->
+<div class="page-header -i navbar navbar-fixed-top">
+	<!-- BEGIN HEADER INNER -->
+	<div class="page-header-inner">
+
+		<!-- BEGIN LOGO -->
+		<div class="page-logo">
+			<a href="index.html">
+                <img src="img/logo_sm.png" alt="Administración" class="logo-default"/>
+			</a>
+			<div class="menu-toggler sidebar-toggler"></div>
+		</div>
+		<!-- END LOGO -->
+
+		<!-- BEGIN RESPONSIVE MENU TOGGLER -->
+		<a href="javascript:;" class="menu-toggler responsive-toggler" data-toggle="collapse" data-target=".navbar-collapse"></a>
+		<!-- END RESPONSIVE MENU TOGGLER -->
+
+		<!-- BEGIN TOP NAVIGATION MENU -->
+		<div class="top-menu">
+			<ul class="nav navbar-nav pull-right">
+				<li class="dropdown dropdown-user ms-hover usuario">
+                        Usuario
+				</li>
+				<li class="dropdown dropdown-user ms-hover "> 
+				 <a href="" class="help2">   
+                 <img class="media-object" src="img/ico/ayuda.png" alt="Ayuda" title="Ayuda" />
+                 </a>
+				</li>
+				<li class="dropdown dropdown-user ms-hover "> 
+				 <a href="" class="help2">   
+                 <img class="media-object" src="img/ico/campana.png" alt="Alerta" title="Alerta" />
+                 </a>
+				</li>				
+				<li class="dropdown dropdown-quick-sidebar-toggler">
+					<a href="javascript:;" class="dropdown-toggle">
+					<img class="media-object" src="img/salir.png" alt="Salir" title="Salir" />
+					</a>
+				</li>
+				<!-- END QUICK SIDEBAR TOGGLER -->
+			</ul>
+		</div>
+		<!-- END TOP NAVIGATION MENU -->
+	</div>
+	<!-- END HEADER INNER -->
+</div>
+<!-- END HEADER -->
+
+
+
+<div class="clearfix"></div>
+
+
+
+<!-- BEGIN CONTAINER -->
+<div class="page-container">
+
+	<!-- menu dijo de la derecha -->
+			<div class="help">
+			<div id="men-help" data-toggle="tooltip" title="Convenciones"></div>
+					<ul>
+	       <div class="box-conv">
+                     <table class="conv" id="conv2">
+                          <tr >
+                            <th colspan="2"> <h4>Convenciones</h4></th>
+                          </tr>
+                          <tr>
+                          <td> Entidad</td>
+                          <td> E </td>
+                          </tr>
+                          <tr>
+                          <td> Meta Producto</td>
+                          <td> MP </td>
+                          </tr>
+                          <tr>
+                          <td> Meta Cuatrenio </td>
+                          <td> MC</td>
+                          </tr>
+                          <tr>
+                          <td> Vigencia</td>
+                          <td> V </td>
+                          </tr>
+                          <tr>
+                          <td>Crítico < 40%</td>
+                          <td> <a href="#" class ="new-btn dfn-hover"> <span class="red"></span></a> </td>
+                          </tr>
+                          <tr>
+                          <td> Bajo >=40% y < 60% </td>
+                          <td> <a href="#" class ="new-btn dfn-hover"> <span class="orange"></span></a> </td>
+                          </tr>
+                          <tr>
+                          <td> Medio | >=60% y < 80% </td>
+                          <td> <a href="#" class ="new-btn dfn-hover"> <span class="yellow"></span></a> </td>
+                          </tr>
+                          <tr>
+                          <td> Cumplido | >=80% y <=100% </td>
+                          <td> <a href="#" class ="new-btn dfn-hover"> <span class="green"></span></a> </td>
+                          </tr>
+                           <tr>
+                          <td> Superó meta cuatrenio </td>
+                          <td> <a href="#" class ="new-btn dfn-hover"> <span class="viol"></span></a> </td>
+                          </tr>
+                          <tr>
+                          <td>No se planeó/No se ejecutó </td>
+                          <td> <a href="#" class ="new-btn dfn-hover"> <span class="gray"></span></a> </td>
+                          </tr>
+                          <tr>
+                          <td>Ejecutada sin planeación </td>
+                          <td> <a href="#" class ="new-btn dfn-hover"> <span class="blue"></span></a> </td>
+                          </tr>
+                          <tr>
+                          <td>Descargar Excel </td>
+                          <td> <img src='img/excel_icono.png' alt='Generar Excel' title="Generar Excel"></td>
+                          </tr>
+
+                          </table>
+                       </div>
+					</ul>
+			</div>
+			<!-- end menu dijo de la derecha -->
+	<!-- BEGIN SIDEBAR -->
+	<div class="page-sidebar-wrapper">
+		<div class="page-sidebar navbar-collapse collapse">
+
+			<!-- BEGIN SIDEBAR MENU -->
+			<ul class="page-sidebar-menu" data-keep-expanded="false" data-auto-scroll="true" data-slide-speed="200">
+				<!-- DOC: To remove the search box from the sidebar you just need to completely remove the below "sidebar-search-wrapper" LI element 
+					<form class="sidebar-search sidebar-search-bordered" action="extra_search.html" method="POST">
+						<a href="javascript:;" class="remove">
+						<i class="icon-close"></i>
+						</a>
+						<div class="input-group">
+							<input type="text" class="form-control" placeholder="Search...">
+							<span class="input-group-btn">
+							<a href="javascript:;" class="btn submit"><i class="icon-magnifier"></i></a>
+							</span>
+						</div>
+					</form>-->
+					<!-- END RESPONSIVE QUICK SEARCH FORM -->
+				<li class="start ">
+					<a href="javascript:;">
+                        <img class="media-object" src="img/ico/home.png" />
+                        <span class="title">Inicio</span>
+					</a>
+				</li>
+				<li>
+					<a href="javascript:;">
+                        <img class="media-object" src="img/ico/usuario.png" />
+                        <span class="title">Usuario</span>
+                        <span class="arrow "></span>
+					</a>
+					<ul class="sub-menu">
+						<li>
+							<a href="#"><img src="img/ico/new.png" /> Nuevo</a>
+						</li>
+						<li>
+							<a href="#"><img src="img/ico/listar.png" /> Listar</a>
+						</li>
+						<li>
+							<a href="#"><img src="img/ico/guardar.png" /> Guardar</a>
+						</li>
+						<li>
+							<a href="#"><img src="img/ico/cerrar.png" /> Cancelar</a>
+						</li>
+					     <li>
+							<a href="#"><img src="img/ico/basura.png" /> Eliminar</a>
+						</li>
+						 <li>
+							<a href="#"><img src="img/ico/imagen.png" /> Imagen</a>
+						</li>
+						<li>
+							<a href="#"><img src="img/ico/video.png" /> Video</a>
+						</li>
+						<li>
+							<a href="#"><img src="img/ico/audio.png" /> Audio</a>
+						</li>
+					</ul>
+				</li>
+				
+				<li>
+					<a href="javascript:;">
+                        <img class="media-object" src="img/ico/reporte.png" />
+                        <span class="title">Reportes</span>
+                        <span class="arrow "></span>
+					</a>
+					<ul class="sub-menu">
+						<li>
+							<a href="javascript:;">
+								Item 1 <span class="arrow"></span>
+							</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="javascript:;">
+										Subtem 1  <span class="arrow"></span>
+									</a>
+									<ul class="sub-menu">
+										<li>
+											<a href="#">Sub Subtem 1</a>
+										</li>
+										<li>
+											<a href="#">Sub Subtem 2</a>
+										</li>
+										<li>
+											<a href="#">Sub Subtem 3</a>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a href="#">Subtem 2</a>
+								</li>
+								<li>
+									<a href="#">Subtem 3</a>
+								</li>
+								<li>
+									<a href="#">Subtem 4</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="javascript:;">
+								Item 2 <span class="arrow"></span>
+							</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="#">Subtem 2.1</a>
+								</li>
+								<li>
+									<a href="#">Subtem 2.2</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="#"> Item 3 </a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="javascript:;">
+                        <img class="media-object" src="img/ico/estadistica.png" />
+                        <span class="title">Estadistica</span>
+                        <span class="arrow "></span>
+					</a>
+					<ul class="sub-menu">
+						<li>
+							<a href="#"><img src="img/ico/new.png" /> Nuevo</a>
+						</li>
+						<li>
+							<a href="#"><img src="img/ico/listar.png" /> Listar</a>
+						</li>
+					</ul>
+				</li>
+			
+				<li>
+					<a href="javascript:;">
+                        <img class="media-object" src="img/ico/doc.png" />
+                        <span class="title">Documentos</span>
+                        <span class="arrow "></span>
+					</a>
+					<ul class="sub-menu">
+						<li>
+							<a href="#"><img src="img/ico/new.png" /> Nuevo</a>
+						</li>
+						<li>
+							<a href="#"><img src="img/ico/listar.png" /> Listar</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="#">
+                        <img class="media-object" src="img/ico/check.png" />
+                        <span class="title">Check</span>
+					</a>
+				</li>
+				<li class="last ">
+					<a href="#">
+                        <img class="media-object" src="img/ico/pinon2.png" />
+                        <span class="title">Configuración</span>
+					</a>
+				</li>
+			</ul>
+			<!-- END SIDEBAR MENU -->
+
+		</div>
+	</div>
+	<!-- END SIDEBAR -->
+
+
+
+	<!-- BEGIN CONTENT -->
+	<div class="page-content-wrapper">
+		<div class="page-content">
+
+			<h3 class="page-title">Título del Item</h3>
+
+			<div class="page-bar">
+				<ul class="page-breadcrumb">
+					<li>
+						<a href="index.html">Inicio</a> &nbsp;<img class="media-object" src="img/flecha_miga.png">&nbsp;
+					</li>
+					<li>
+						<a href="#">Listado de Procedimientos</a> &nbsp;<img class="media-object" src="img/flecha_miga.png">&nbsp;
+					</li>
+					<li>
+						Procedimiento Option 1
+					</li>
+				</ul>
+			</div>
+
+                	<!-- ---------------------------------------------------------------------------- MODAL ---------------------------------------------------------------------------- -->
+
+                    <div class="encima"></div>
+                    <div class="encimaModal">
+                        <a href="javascript:;" class="cerrar-modal">CERRAR</a>
+                        <div id="modalContenido">
+                            hola
+                        </div>
+                    </div>
+
+                	<!-- ---------------------------------------------------------------------------- MODAL ---------------------------------------------------------------------------- -->
+
+			<!-- BEGIN PAGE CONTENT-->
+			<div class="row">
+				<div class="col-md-12">
+
+                	<!-- ---------------------------------------------------------------------------- INTERNA RECUADRO ---------------------------------------------------------------------------- -->
+                    <div class="recuadro">
+                    	<div class="titulo">
+                        	<img src="img/ico/usuario.png" /> Modificar Procedimiento
+                        </div>
+
+                        <div class="dentro">
+
+
+                        	<div id="mapaHuila" style="width: 500px; height: 500px"></div>
+
+                            <script type="text/javascript" src="js/jquery-jvectormap-1.2.2.min.js"></script>
+                            <script type="text/javascript" src="js/huila.js"></script>
+							<script type="text/javascript">
+							$(document).ready(function(){
+							
+								$(".cerrar-modal").click(function() {
+									$(".encimaModal").fadeOut(300, function(){
+										$(".encima").fadeOut(300);
+									});
+								});
+							
+								$(".encima").click(function() {
+									$(".encimaModal").fadeOut(300, function(){
+										$(".encima").fadeOut(300);
+									});
+								});
+							});
+
+							//---------------------------------------------------------
+
+							function verMpio(code){
+								alert("verMpio: " + code);
+								
+								$("#modalContenido").html("<h2>El M/pio seleccionado es: " + code + "</h2>");
+
+								$(".encima").fadeIn(300, function(){
+									$(".encimaModal").fadeIn(300);
+								});
+							}
+
+							//---------------------------------------------------------
+
+                            $(function(){
+                                $('#mapaHuila').vectorMap({
+                                    map: 'map',
+                                    onRegionClick: function(event, code){
+                                        //alert(code); // return the state
+										verMpio(code);
+                                    },
+                                
+                                    backgroundColor: '#CCCCCC', //b3d1ff
+                                    series:{
+                                    regions: [{
+                                        values: {"campoalegre_id":"1","colombia_id":"2","baraya_id":"3","villavieja_id":"4","aipe_id":"5","tello_id":"6","neiva_id":"7","palermo_id":"8","rivera_id":"9","santa-maria_id":"10","iquira_id":"12","teruel_id":"13","yaguara_id":"15","hobo_id":"16","algeciras_id":"17","nataga_id":"18","tesalia_id":"19","paicol_id":"20","gigante_id":"21","la-plata_id":"22","el-pital_id":"23","la-argentina_id":"24","agrado_id":"25","garzon_id":"26","tarqui_id":"27","salado-blanco_id":"28","oporapa_id":"29","altamira_id":"30","elias_id":"31","timana_id":"32","suaza_id":"33","san-agustin_id":"34","isnos_id":"35","pitalito_id":"36","palestina_id":"37","acevedo_id":"38","guadalupe_id":"39"},
+                                        scale: ['#4e967d', '#893AD3', '#66C2A5', '#FC8D62', '#8DA0CB', '#D470A5', '#A6D854', '#488E78', '#0FAE33', '#BFBB32', '#8DA0CB', '#66C2A5','#d0a355' ,'#dccd57','#9db69f','#ffe978','#f7e9a1','#c79d3c','#f5934b','#bfb778','#65865f','#84add0','#ea6199','#299888','#1fa223','#f3de74','#aeceb5','#e5f378','#c88fe4','#f3c196','#a4dc84','#146592','#ea7c7c','#8b78c3','#e4c520','#b6a3da','#eacc56','#09b567','#c17b7b'], // LISTADO DE COLORES
+                                        normalizeFunction: 'polynomial'
+                                        }]
+                                    },
+                                
+                                    regionStyle:{
+                                        initial:{		
+                                            fill:"#f4f3f0",
+                                            stroke:"#CCCCCC",		
+                                            "stroke-width":3,
+                                            "stroke-opacity":1	
+                                        },
+                                
+                                        hover:{
+                                            fill:"#999999",		
+                                            "fill-opacity":"1"
+                                        }
+                                    }
+                                })
+                            });
+                            </script>
+                        </div>                    
+                    </div>
+                	<!-- ---------------------------------------------------------------------------- fin INTERNA RECUADRO ---------------------------------------------------------------------------- -->
+				</div>
+			</div>
+			<!-- END PAGE CONTENT-->
+		</div>
+	</div>
+	<!-- END CONTENT -->
+
+	<!-- END QUICK SIDEBAR -->
+</div>
+<!-- END CONTAINER -->
+
+
+
+<!-- BEGIN FOOTER -->
+<div class="page-footer">
+	<div class="page-footer-inner">
+		TBG | Tablero Balanceado de Gestión - 2016
+	</div>
+	<div class="scroll-to-top">
+		<i class="icon-arrow-up"></i>
+	</div>
+</div>
+<!-- END FOOTER -->
+
+
+</body>
+</html>

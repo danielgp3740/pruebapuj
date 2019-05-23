@@ -1,0 +1,115 @@
+/* *******************************************************************************
+ckm.co - 2017
+******************************************************************************** */
+
+/****************************************************************************
+GENERALES
+****************************************************************************/
+
+#men-help{
+	position: absolute;
+	right: 0;
+	display: block;
+	width: 40px;
+	height: 40px;
+	cursor: pointer;
+	color: #fff;
+	background-color: #111;
+	border-radius: 20px 0 0 20px;
+}
+
+#men-help:after, #men-help:before{
+	position: absolute;
+	left: 10px;
+	display: block;
+	height: 2px;
+	width: 14px;
+	content: '';
+}
+
+#men-help:after{
+	top: 24px;
+	border-top: 2px solid #fff;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+#men-help:before{
+	top: 15px;
+	background: #fff;
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+
+#men-help.open{
+	padding-right: 280px
+}
+
+#men-help.open:after{
+	left: 14px;
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+#men-help.open:before{
+	left: 14px;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+
+#men-help:hover{
+	background-color: #006216;
+}
+
+.help{
+	position: fixed;
+	top: 65px;
+	right: 0;
+	width: 106px;
+	z-index: 9999;
+}
+
+
+.help ul{
+	display: none;
+	float: right;
+    margin-left: 40px;
+    padding: 16px 0px 16px 0px;
+    background-color: #111;
+    background: #f7f7f7;
+    border: 2px solid #004f12;
+}
+.help ul .box-conv {     
+	position: relative;
+    right: 0;
+    padding-top: 33px;
+    background: none;
+} 
+
+.help ul li{
+	display: inline-block;
+	padding: 4px 8px;
+	line-height: 1;
+	margin-bottom: 10px;
+	background: #666;
+	border-radius: 4px;
+}
+
+.help ul li:hover{
+	background: #333;
+}
+
+.help ul li button{
+	background: none;
+	border: none;
+}

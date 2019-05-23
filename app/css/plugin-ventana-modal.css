@@ -1,0 +1,77 @@
+/********************************************************************************
+César Fernández
+2017
+**********************************************************************************/
+
+@charset "UTF-8";
+/* CSS Document */
+
+.sobrep{
+	display: none;
+	position: absolute;
+	z-index: 10001;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.3);
+}
+
+.sobreModal{
+	display: none;
+	margin: 0 auto;
+	position: absolute;
+	z-index: 10002;
+	top: 5%;
+	left: 10%;
+	padding: 20px;
+	width: 80%;
+	height: 90%;
+	background: #FFF;
+	overflow: hidden;
+	border: 1px solid #CCC;
+/*	overflow: auto;*/
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.sobreModal.medi1{
+	top: 25%;
+	left: 25%;
+	width: 50%;
+	height: 50%;
+}
+.sobreModal.medi2{
+	top: 40%;
+	left: 40%;
+	width: 20%;
+	height: 20%;
+}
+
+#modaAdentro{
+	padding: 10px;
+	overflow: auto;
+}
+
+.modaAdentro .recuadro{
+	height: -webkit-fill-available;
+	overflow:  auto;
+}
+
+.cerrar-modal{
+	position: absolute;
+	top: 5px;
+	right: 5px;
+    padding: 3px 6px;
+    width: 20px;
+	color: #FFF;
+	cursor: pointer;
+	font: 20px Arial, Helvetica, sans-serif;
+	text-align: center;
+    background-color: #666;
+}
+.cerrar-modal:hover{
+    background-color: #000;
+}
